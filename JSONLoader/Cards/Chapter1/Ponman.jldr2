@@ -1,0 +1,23 @@
+{
+  "name": "Ponman",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Ponman",
+  "description": "A simple organism that takes life one square at a time.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "Strafe"
+  ],
+  "texture": "Ponman.png",
+  "emissionTexture": "PonmanEmissives.png",
+  "pixelTexture": "PonmanSmall.png"
+}

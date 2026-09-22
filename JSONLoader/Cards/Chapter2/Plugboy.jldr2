@@ -1,0 +1,28 @@
+{
+  "name": "Plugboy",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Plugboy",
+  "description": "A short, stout, bipedal creature with an inlet plug for a face.",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Venator",
+    "ConduitNull"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Plugboy.png",
+  "emissionTexture": "PlugboyEmissives.png",
+  "pixelTexture": "PlugboySmall.png",
+  "extensionProperties": {
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackCyberWorld.png",
+    "VenatorTransformation": "DeltaCyber_Werewire"
+  }
+}

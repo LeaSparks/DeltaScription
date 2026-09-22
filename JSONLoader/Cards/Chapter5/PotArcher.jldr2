@@ -1,0 +1,30 @@
+{
+  "name": "PotArcher",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Pot Archer",
+  "description": "An aged armor that lives to protect nature.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "Sniper"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "PotArcher.png",
+  "emissionTexture": "PotArcherEmissives.png",
+  "pixelTexture": "PotArcherSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#dfed13"
+  }
+}

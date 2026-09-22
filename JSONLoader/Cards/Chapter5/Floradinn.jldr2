@@ -1,0 +1,23 @@
+{
+  "name": "Floradinn",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Floradinn",
+  "description": "It thinks it's a flower and probably so does everyone else.",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Entangle"
+  ],
+  "texture": "Floradinn.png",
+  "emissionTexture": "FloradinnEmissives.png",
+  "pixelTexture": "FloradinnSmall.png",
+  "extensionProperties": {
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackFlowerKingdom.png"
+  }
+}

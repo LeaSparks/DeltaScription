@@ -1,0 +1,32 @@
+{
+  "name": "Seth",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Seth",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "abilities": [
+    "ATS_Tribal Tutor",
+    "ATS_Tribe Attack"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Seth.png",
+  "emissionTexture": "SethEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#d834eb"
+  }
+}

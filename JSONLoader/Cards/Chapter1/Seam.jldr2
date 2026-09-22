@@ -1,0 +1,40 @@
+{
+  "name": "Seam",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Seam",
+  "description": "I'm quite fond of this one.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "bloodCost": 4,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "specialAbilities": [
+    "nevernamed.inscryption.sigils_PackRatEater"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Seam.png",
+  "emissionTexture": "SeamEmissives.png",
+  "pixelTexture": "SeamSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "SeamBackground.png",
+    "customNameColor": "#ec8d24",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

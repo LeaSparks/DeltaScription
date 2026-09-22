@@ -1,0 +1,25 @@
+{
+  "name": "Mauswheel",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Mauswheel",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "energyCost": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "GainBattery",
+    "Strafe"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Mauswheel.png",
+  "emissionTexture": "MauswheelEmissives.png"
+}

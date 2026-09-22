@@ -1,0 +1,39 @@
+{
+  "name": "December",
+  "modPrefix": "DeltaScription",
+  "displayedName": "The Roaring Knight",
+  "description": "The antlered knight, I haven't seen that one in some time",
+  "metaCategories": [
+    "Rare"
+  ],
+  "baseAttack": 1,
+  "baseHealth": 25,
+  "bloodCost": 2,
+  "bonesCost": 12,
+  "specialStatIcon": "SacrificesThisTurn",
+  "tribes": [
+    "Hooved",
+    "DeltaScription_ShadowCrystal"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sharper Quills",
+    "DoubleStrike"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "December.png",
+  "emissionTexture": "DecemberEmissisives.png",
+  "pixelTexture": "DecemberSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "AngelsHeavenBackground.png",
+    "customAttackColor": "#ff9900",
+    "customHealthColor ": "#ff0800",
+    "customNameColor": "#ffffff",
+    "customPortraitColor": "#ffffff"
+  }
+}

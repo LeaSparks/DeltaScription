@@ -1,0 +1,25 @@
+{
+  "name": "Nubert",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Nubert",
+  "description": "Nubert.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "Reach"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Nubert.png",
+  "emissionTexture": "NubertEmissives.png"
+}

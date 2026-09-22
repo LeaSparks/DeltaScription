@@ -1,0 +1,27 @@
+{
+  "name": "Virovirokun",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Virovirokun",
+  "description": "A virus with a slightly criminal streak... and a heart of gold.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Toxic",
+    "nevernamed.inscryption.sigils_Malware"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Virovirokun.png",
+  "emissionTexture": "VirovirokunEmissives.png",
+  "pixelTexture": "VirovirokunSmall.png"
+}

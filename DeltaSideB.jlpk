@@ -1,0 +1,7 @@
+{
+	"Title": "Please Insert Side-B",
+	"Description": "A WIP pack of 2 cards based on Deltarune cards based on the game's B-Side. this pack is optional, for best experiences play it with chapters 1-5 enabled.",
+	"ModPrefix": "DeltaSideB",
+	"PackArt": "DeltaSideBPack.png",
+    "ValidFor": ["LeshyPack"]
+}

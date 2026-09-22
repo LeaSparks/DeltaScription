@@ -1,0 +1,31 @@
+{
+  "name": "WoodBlade",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Wood Blade",
+  "description": "A wooden practice blade with a carbon-reinforced core.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 0,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "WoodBlade.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

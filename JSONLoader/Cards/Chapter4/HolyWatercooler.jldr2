@@ -1,0 +1,38 @@
+{
+  "name": "HolyWatercooler",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Holy Watercooler",
+  "description": "It shows no mercy.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "bonesCost": 3,
+  "tribes": [
+    "DeltaScription_Sanctuary",
+    "DeltaScription_TVWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "Evolve",
+    "nevernamed.inscryption.sigils_Waterbird",
+    "GainGemBlue"
+  ],
+  "evolveIntoName": "DeltaProphecy_MissMizzle",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "nevernamed.inscryption.sigils_RareTerrainBackground"
+  ],
+  "texture": "Watercooler.png",
+  "emissionTexture": "WatercoolerEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#16d7f5"
+  }
+}

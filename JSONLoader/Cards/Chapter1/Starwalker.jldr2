@@ -1,0 +1,31 @@
+{
+  "name": "Starwalker",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Starwalker",
+  "description": "These Birds are            Pissing me off.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Fowl Play",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaScription_FinalStarwalker",
+  "evolveTurns": 4,
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Starwalker.png",
+  "emissionTexture": "StarwalkerEmissives.png",
+  "pixelTexture": "StarwalkerSmall.png"
+}

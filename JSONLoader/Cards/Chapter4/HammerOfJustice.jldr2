@@ -1,0 +1,37 @@
+{
+  "name": "HammerOfJustice",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Hammer of Justice",
+  "description": "The bell of justice rings...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 8,
+  "bonesCost": 3,
+  "gemsCost": [
+    "Blue",
+    "Green",
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary",
+    "DeltaScription_ShadowCrystal",
+    "Reptile"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Omni Guardian",
+    "WhackAMole",
+    "nevernamed.inscryption.sigils_Unhammerable",
+    "nevernamed.inscryption.sigils_Diagonal Strike"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "HammerOfJustice.png",
+  "emissionTexture": "HammerOfJusticeEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

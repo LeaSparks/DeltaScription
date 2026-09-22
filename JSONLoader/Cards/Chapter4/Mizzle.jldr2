@@ -1,0 +1,31 @@
+{
+  "name": "Mizzle",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Mizzle",
+  "description": " A sleepy water spirit.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "ATS_Asleep",
+    "Flying",
+    "Submerge"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Mizzle.png",
+  "emissionTexture": "MizzleEmissives.png",
+  "pixelTexture": "MizzleSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#16d7f5"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "BraveAx",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Brave Ax",
+  "description": "A glossy ax from a block warrior. Suitable for heroes.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 0,
+  "bonesCost": 3,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "nevernamed.inscryption.sigils_Spurred"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "BraveAx.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

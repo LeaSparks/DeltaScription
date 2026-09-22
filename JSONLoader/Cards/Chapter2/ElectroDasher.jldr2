@@ -1,0 +1,25 @@
+{
+  "name": "ElectroDasher",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Electro-Dasher",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "StrafePush"
+  ],
+  "flipPortraitForStrafe": true,
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "ElectroDasher.png",
+  "emissionTexture": "ElectroDasherEmissives.png"
+}

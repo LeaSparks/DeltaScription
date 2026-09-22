@@ -1,0 +1,33 @@
+{
+  "name": "Lancer",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Lancer",
+  "description": "He's the bad guy.. Apparently",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "BoneDigger",
+    "nevernamed.inscryption.sigils_Twister"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Lancer.png",
+  "emissionTexture": "LancerEmissives.png",
+  "pixelTexture": "LancerSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareSuitOfSpadesBackground.png",
+    "TwisterTransformation": "DeltaBeginning_LancerBike"
+  }
+}

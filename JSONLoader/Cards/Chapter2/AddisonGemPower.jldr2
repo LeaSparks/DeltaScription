@@ -1,0 +1,26 @@
+{
+  "name": "AddisonGemPower",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Addison",
+  "description": "Physical embodiments of advertising.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "BuffGems"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "AddisonGemPower.png",
+  "emissionTexture": "AddisonGemPowerEmissives.png",
+  "pixelTexture": "AddisonGemPowerSmall.png"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Flowery",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Flowery",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 5,
+  "bonesCost": 7,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "specialAbilities": [
+    "Ant"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Kindred",
+    "Strafe"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "GoldEmission",
+    "RareCardBackground"
+  ],
+  "texture": "Flowery.png",
+  "emissionTexture": "FloweryEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "KindredCannotSpawnSelf": "UwU",
+    "KindredIgnoresRarity ": "UwU",
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

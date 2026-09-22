@@ -1,0 +1,29 @@
+{
+  "name": "QueenPot",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Queen Pot",
+  "description": "A decorative and fragile pot.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "IceCube"
+  ],
+  "iceCubeName": "DeltaCyber_SwatchlingRed",
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "QueenPot.png",
+  "emissionTexture": "QueenPotEmissives.png"
+}

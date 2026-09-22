@@ -1,0 +1,35 @@
+{
+  "name": "Jackenstein",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Jackenstein",
+  "description": "A strange, very large pumpkin.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 3,
+  "baseHealth": 8,
+  "bloodCost": 3,
+  "gemsCost": [
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Transformer"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "RareCardBackground"
+  ],
+  "texture": "Jackenstein.png",
+  "emissionTexture": "JackensteinEmissives.png",
+  "pixelTexture": "JackensteinSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#FF6100",
+    "CustomTransformerTransformation": "DeltaProphecy_JackensteinDarkness",
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

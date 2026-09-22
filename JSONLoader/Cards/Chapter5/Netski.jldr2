@@ -1,0 +1,30 @@
+{
+  "name": "Netski",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Netskie",
+  "description": "An even trickier fox...?",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sigil Mimic"
+  ],
+  "evolveIntoName": "DeltaScription_Netski",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Netski.png",
+  "emissionTexture": "NetskiEmissives.png",
+  "pixelTexture": "NetskiSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#e51df0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "QueensWerewires",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Queen's Werewires",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaCyber_Werewerewire",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Werewire.png",
+  "emissionTexture": "WerewireEmissives.png"
+}

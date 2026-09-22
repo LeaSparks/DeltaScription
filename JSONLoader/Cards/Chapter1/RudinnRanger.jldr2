@@ -1,0 +1,29 @@
+{
+  "name": "RudinnRanger",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Rudinn Ranger",
+  "description": "Obsessed with ranger shows, it lets everyone know it's better than Rudinn.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "ATS_Bond"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "RudinnRanger.png",
+  "emissionTexture": "RudinnRangerEmissives.png",
+  "pixelTexture": "RudinnRangerSmall.png",
+  "extensionProperties": {
+    "customBackground": "SuitOfDiamondsBackground.png"
+  }
+}

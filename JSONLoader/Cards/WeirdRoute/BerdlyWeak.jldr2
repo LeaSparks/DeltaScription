@@ -1,0 +1,35 @@
+{
+  "name": "BerdlyWeak",
+  "modPrefix": "DeltaSideB",
+  "displayedName": "just another enemy",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "Bird",
+    "DeltaScription_Lightner"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Frail Sacrifice",
+    "nevernamed.inscryption.sigils_Trifling Sacrifice",
+    "MadeOfStone",
+    "DeathShield"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors",
+    "DefaultEmission"
+  ],
+  "texture": "BerdlyWeak.png",
+  "emissionTexture": "BerdlyWeakEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "LightWorldMonsterBackground.png",
+    "customAttackColor": "#ff9900",
+    "customHealthColor ": "#ff0800",
+    "customNameColor": "#ffffff"
+  }
+}

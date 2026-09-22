@@ -1,0 +1,34 @@
+{
+  "name": "FireExtinguisher",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "FireExtinguisher",
+  "description": "A chicken-like character with no legs.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseHealth": 1,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "traits": [
+    "Gem"
+  ],
+  "abilities": [
+    "GainGemOrange",
+    "DrawCopy"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "nevernamed.inscryption.sigils_GreyCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "FireExtinguisher.png",
+  "emissionTexture": "FireExtinguisherEmissives.png",
+  "pixelTexture": "FireExtinguisherSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#fc1a05"
+  }
+}

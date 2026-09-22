@@ -1,0 +1,37 @@
+{
+  "name": "UltimaThrashMachine",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Ultimate Thrash Machine",
+  "description": "An amalgamation of strange colourful characters.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 16,
+  "bloodCost": 2,
+  "energyCost": 6,
+  "gemsCost": [
+    "Blue"
+  ],
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Clawed",
+    "nevernamed.inscryption.sigils_Giant",
+    "nevernamed.inscryption.sigils_Sturdy"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "UltimaThrashMachine.png",
+  "emissionTexture": "UltimaThrashMachineEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareTechPaperCardBackground.png",
+    "ClawedLeftClawOverride": "DeltaScription_UltimaThrashArmLeft",
+    "ClawedRightClawOverride": "DeltaScription_UltimaThrashArmRight"
+  }
+}

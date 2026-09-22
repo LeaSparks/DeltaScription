@@ -1,0 +1,32 @@
+{
+  "name": "Blue",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Blue",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "abilities": [
+    "ATS_Tribe Health",
+    "ATS_Puppets gift"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Blue.png",
+  "emissionTexture": "BlueEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#1207e8"
+  }
+}

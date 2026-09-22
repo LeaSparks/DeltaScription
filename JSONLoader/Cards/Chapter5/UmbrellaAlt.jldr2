@@ -1,0 +1,20 @@
+{
+  "name": "UmbrellaAlt",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Umbrella",
+  "description": "Ancient umbrella brought to life.",
+  "cardComplexity": "Simple",
+  "baseAttack": 4,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Transformer"
+  ],
+  "texture": "UmbrellaAlt.png",
+  "extensionProperties": {
+    "CustomTransformerTransformation": "DeltaScription_Umbrella"
+  }
+}

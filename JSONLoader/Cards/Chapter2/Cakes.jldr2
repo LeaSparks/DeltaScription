@@ -1,0 +1,25 @@
+{
+  "name": "Cakes",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "K_K",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bonesCost": 2,
+  "energyCost": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Hot Conduit"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Cakes.png",
+  "emissionTexture": "CakesEmissives.png"
+}

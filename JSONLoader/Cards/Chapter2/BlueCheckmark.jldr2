@@ -1,0 +1,20 @@
+{
+  "name": "BlueCheckmark",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Blue Checkmark",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Claw"
+  ],
+  "appearanceBehaviour": [
+    "DefaultEmission",
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "BlueCheckmark.png",
+  "emissionTexture": "BlueCheckmarkEmissives.png"
+}

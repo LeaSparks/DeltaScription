@@ -1,0 +1,32 @@
+{
+  "name": "IronShackle",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Iron Shackle",
+  "description": " Shackle that ironically increases your attack and defense.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 0,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "ATS_Thick Shell"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "IronShackle.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

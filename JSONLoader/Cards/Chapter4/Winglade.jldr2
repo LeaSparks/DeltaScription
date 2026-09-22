@@ -1,0 +1,24 @@
+{
+  "name": "Winglade",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Winglade",
+  "description": "A radical blade with feathers at the hilt.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "gemsCost": [
+    "Blue"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Cleaving"
+  ],
+  "texture": "Winglade.png",
+  "emissionTexture": "WingladeEmissives.png"
+}

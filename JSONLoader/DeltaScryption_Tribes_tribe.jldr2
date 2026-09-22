@@ -1,0 +1,72 @@
+{
+  "tribes": [
+  {
+    "name": "CardKingdom",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_TheBeginningTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "CyberWorld",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_ACybersWorldTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "TVWorld",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_LateNightTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "Sanctuary",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_ProphecyTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "FlowerKingdom",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_FestivalDayTribe.png",
+  "appearInTribeChoices": true
+  },
+    {
+    "name": "Flower",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_FlowerTribe.png",
+  "appearInTribeChoices": false
+  },
+    {
+    "name": "Titanspawn",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_TitanspawnTribe.png",
+  "appearInTribeChoices": false
+  },
+    {
+    "name": "Lightner",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_LightnerTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "ShadowCrystal",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_ShadowCrystalTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "Cat",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_CatTribe.png",
+  "appearInTribeChoices": true
+  },
+  {
+    "name": "Equipment",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_EquipmentTribe.png",
+  "appearInTribeChoices": false
+  }
+]
+}
+  
+

@@ -1,0 +1,31 @@
+{
+  "name": "Jevil",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Jevil",
+  "description": "He can do anything.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 9,
+  "bloodCost": 3,
+  "bonesCost": 5,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Marcescent",
+    "nevernamed.inscryption.sigils_Revolve",
+    "nevernamed.inscryption.sigils_Sharp Shot"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Jevil.png",
+  "emissionTexture": "JevilEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareJokerBackground.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Fommit",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Fommit",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "energyCost": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Snapshot"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Fommit.png",
+  "emissionTexture": "FommitEmissives.png"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ShearyA",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Sheary",
+  "description": "A familiar dancer with sharp legs. Only fights when provoked.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "specialStatIcon": "Mirror",
+  "tribes": [
+    "DeltaScription_CardKingdom",
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Snip"
+  ],
+  "texture": "Sheary.png",
+  "emissionTexture": "ShearyEmissives.png",
+  "pixelTexture": "ShearySmall.png"
+}

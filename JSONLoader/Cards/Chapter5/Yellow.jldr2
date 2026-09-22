@@ -1,0 +1,32 @@
+{
+  "name": "Yellow",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Yellow",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "abilities": [
+    "ATS_Tribe Attack"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Yellow.png",
+  "emissionTexture": "YellowEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#e0dd14"
+  }
+}

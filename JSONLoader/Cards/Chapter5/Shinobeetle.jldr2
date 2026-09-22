@@ -1,0 +1,30 @@
+{
+  "name": "Shinobeetle",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Shinobeetle",
+  "description": "An ancient armor that lives to protect nature.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom",
+    "Insect"
+  ],
+  "abilities": [
+    "ATS_Inaccurate",
+    "ATS_Picky"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Shinobeetle.png",
+  "emissionTexture": "ShinobeetleEmissives.png",
+  "pixelTexture": "ShinoBeetleSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#eff598"
+  }
+}

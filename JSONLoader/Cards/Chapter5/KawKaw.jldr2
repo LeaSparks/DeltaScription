@@ -1,0 +1,22 @@
+{
+  "name": "KawKaw",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "KawKaw",
+  "description": "A conical crow which lives in the ground.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Slimeball",
+    "ATS_Familiar"
+  ],
+  "texture": "KawKaw.png",
+  "emissionTexture": "KawKawEmissives.png",
+  "extensionProperties": {}
+}

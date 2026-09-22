@@ -1,0 +1,24 @@
+{
+  "name": "Rabbick",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Rabbick",
+  "description": "A real dust bunny. Known to play dirty, but loves to play clean.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Downdraft"
+  ],
+  "texture": "Rabbick.png",
+  "emissionTexture": "RabbickEmissives.png",
+  "pixelTexture": "RabbickSmall.png"
+}

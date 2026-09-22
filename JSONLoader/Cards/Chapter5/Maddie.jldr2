@@ -1,0 +1,40 @@
+{
+  "name": "Maddie",
+  "modPrefix": "DeltaScription",
+  "displayedName": " Maddie",
+  "description": "彼女は、ニャーと鳴くタイプの幽霊だ。",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "bonesCost": 3,
+  "tribes": [
+    "DeltaScription_ShadowCrystal",
+    "DeltaScription_Lightner"
+  ],
+  "specialAbilities": [
+    "Daus"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Immaterial",
+    "Sacrificial"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Maddie.png",
+  "emissionTexture": "MaddieEmissives.png",
+  "pixelTexture": "PinkSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#c57ef7",
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "DarkWorldLightnerBackground.png",
+    "customAttackColor": "#c7b9d7",
+    "customNameColor": "#c7b9d7",
+    "customPortraitColor": "#c7b9d7",
+    "customHealthColor ": "#c7b9d7"
+  }
+}

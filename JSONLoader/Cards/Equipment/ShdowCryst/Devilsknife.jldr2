@@ -1,0 +1,30 @@
+{
+  "name": "Devilsknife",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Devilsknife",
+  "description": "Skull-emblazoned scythe-ax.",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 5,
+  "baseHealth": 0,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "nevernamed.inscryption.sigils_Vampiric",
+    "nevernamed.inscryption.sigils_Revolve"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Devilsknife.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "SoundOfJustice",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Sound of Justice",
+  "description": "The bell of justice rings...",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 4,
+  "baseHealth": 4,
+  "bloodCost": 4,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "WhackAMole",
+    "nevernamed.inscryption.sigils_Snakebite",
+    "nevernamed.inscryption.sigils_Diagonal Strike"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "SoundOfJustice.png"
+}

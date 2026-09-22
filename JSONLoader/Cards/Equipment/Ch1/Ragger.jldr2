@@ -1,0 +1,31 @@
+{
+  "name": "Ragger",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Ragger",
+  "description": "A rugged scarf that cuts enemies like a dagger.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 0,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Ragger.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

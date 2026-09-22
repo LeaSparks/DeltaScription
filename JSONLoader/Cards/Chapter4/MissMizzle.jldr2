@@ -1,0 +1,35 @@
+{
+  "name": "MissMizzle",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Miss Mizzle",
+  "description": "A regular \"Mizzle\" who, after ages of worship, falsely believes herself to be of great royalty.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 3,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "gemsCost": [
+    "Blue"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "ATS_Deadly Waters",
+    "Flying",
+    "Submerge",
+    "ATS_Schooling"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "MissMizzle.png",
+  "emissionTexture": "MissMizzleEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#16d7f5"
+  }
+}

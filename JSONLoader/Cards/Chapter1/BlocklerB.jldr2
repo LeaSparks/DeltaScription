@@ -1,0 +1,21 @@
+{
+  "name": "BlocklerB",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Blockler",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "Reach"
+  ],
+  "texture": "BlocklerB.png",
+  "emissionTexture": "BlocklerB.png"
+}

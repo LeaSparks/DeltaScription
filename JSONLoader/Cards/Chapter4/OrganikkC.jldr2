@@ -1,0 +1,26 @@
+{
+  "name": "OrganikkC",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Organikk Trio",
+  "description": "A triad of philosophers who study the ancient words.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 3,
+  "baseHealth": 6,
+  "bloodCost": 3,
+  "bonesCost": 3,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "Evolve",
+    "ATS_Bone prince 3",
+    "TripleBlood"
+  ],
+  "evolveIntoName": "DeltaProphecy_OrganikkD",
+  "texture": "OrganikkC.png",
+  "emissionTexture": "OrganikkCEmissives.png"
+}

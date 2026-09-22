@@ -1,0 +1,26 @@
+{
+  "name": "OrganikkB",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Organikk Duet",
+  "description": "A pair of philosophers who study the ancient words.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "Evolve",
+    "ATS_Bone prince 2",
+    "ATS_Noble Sacrifice"
+  ],
+  "evolveIntoName": "DeltaProphecy_OrganikkC",
+  "texture": "OrganikkB.png",
+  "emissionTexture": "OrganikkBEmissives.png"
+}

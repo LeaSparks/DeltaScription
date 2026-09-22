@@ -1,0 +1,20 @@
+{
+  "name": "Zenlooker",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Zenlooker",
+  "description": "Zenlooker's is irregular, They often use serious profanity such as \"crap\".",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "texture": "Zenlooker.png",
+  "emissionTexture": "ZenlookerEmissives.png",
+  "pixelTexture": "ZenlookerSmall.png"
+}

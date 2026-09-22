@@ -1,0 +1,31 @@
+{
+  "name": "YOURTAKINGTOOLONG",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "YOUR TAKING TOO LONG.",
+  "description": "YOUR TAKING TOO LONG.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 10,
+  "bloodCost": 3,
+  "gemsCost": [
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Trampler",
+    "nevernamed.inscryption.sigils_Crossbones"
+  ],
+  "appearanceBehaviour": [
+    "DefaultEmission"
+  ],
+  "texture": "YOURTAKINGTOOLONG.png",
+  "emissionTexture": "YOURTAKINGTOOLONGEmissives.png",
+  "pixelTexture": "yourtakingtoolongsmall.png",
+  "extensionProperties": {}
+}

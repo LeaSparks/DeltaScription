@@ -1,0 +1,27 @@
+{
+  "name": "UnoriginalStarwalker",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Unoriginal Starwalker",
+  "description": "Not the original.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "ATS_Short"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "RareCardBackground"
+  ],
+  "texture": "UnoriginalStarwalker.png",
+  "emissionTexture": "UnoriginalStarwalkerEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "##e9ff00"
+  }
+}

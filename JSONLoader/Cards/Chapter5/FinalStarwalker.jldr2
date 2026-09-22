@@ -1,0 +1,23 @@
+{
+  "name": "FinalStarwalker",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Final Starwalker",
+  "description": "The Final             Starwalker.",
+  "cardComplexity": "Advanced",
+  "baseAttack": 6,
+  "baseHealth": 9,
+  "tribes": [
+    "DeltaScription_CardKingdom",
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Fowl Play",
+    "Sniper"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "FinalStarwalker.png",
+  "emissionTexture": "FinalStarwalkerEmissives.png"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Aqua",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Aqua",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "abilities": [
+    "TriStrike"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Aqua.png",
+  "emissionTexture": "AquaEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#00f7ff"
+  }
+}

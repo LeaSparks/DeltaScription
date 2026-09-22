@@ -1,0 +1,29 @@
+{
+  "name": "LancerBike",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Lancer",
+  "cardComplexity": "Advanced",
+  "baseAttack": 3,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "bonesCost": 4,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "BoneDigger",
+    "nevernamed.inscryption.sigils_Twister",
+    "StrafePush"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "LancerBike.png",
+  "emissionTexture": "LancerBikeEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareSuitOfSpadesBackground.png",
+    "TwisterTransformation": "DeltaBeginning_Lancer"
+  }
+}

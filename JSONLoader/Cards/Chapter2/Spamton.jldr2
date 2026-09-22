@@ -1,0 +1,34 @@
+{
+  "name": "Spamton",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Spamton G. Spamton",
+  "description": "Number 1 rated salesman 1997.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 3,
+  "baseHealth": 6,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "energyCost": 4,
+  "tribes": [
+    "DeltaScription_Cat",
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Legion",
+    "MadeOfStone"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Spamton.png",
+  "emissionTexture": "SpamtonEmissives.png",
+  "pixelTexture": "SpamtonSmall.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png",
+    "LegionCardOverride": "DeltaCyber_Pipis"
+  }
+}

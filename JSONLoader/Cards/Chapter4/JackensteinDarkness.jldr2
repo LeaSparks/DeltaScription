@@ -1,0 +1,38 @@
+{
+  "name": "JackensteinDarkness",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Jackenstein",
+  "description": "A strange, very large pumpkin, shrouded in darkness.",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 3,
+  "baseHealth": 8,
+  "bloodCost": 3,
+  "gemsCost": [
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Transformer",
+    "PreventAttack"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "JackensteinDarkness.png",
+  "emissionTexture": "JackensteinEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "JackDarkBackground.png",
+    "customEmissionColorHEX": "#FF6100",
+    "CustomTransformerTransformation": "DeltaProphecy_Jackenstein",
+    "customAttackColor": "#ff9900",
+    "customHealthColor ": "#ff9900",
+    "customNameColor": "#ff9900"
+  }
+}

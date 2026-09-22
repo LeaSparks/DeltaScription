@@ -1,0 +1,23 @@
+{
+  "name": "Clover",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Clover",
+  "description": "Two heads are better than one! Three... maybe not.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "TriStrike"
+  ],
+  "onePerDeck": true,
+  "texture": "Clover.png",
+  "emissionTexture": "CloverEmissives.png"
+}

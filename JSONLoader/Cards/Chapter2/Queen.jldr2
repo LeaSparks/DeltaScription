@@ -1,0 +1,34 @@
+{
+  "name": "Queen",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Queen",
+  "description": "Serial Number Q5U4EX7YY2E9N, one of the Stoat's creations I'm sure.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 3,
+  "baseHealth": 7,
+  "bloodCost": 3,
+  "energyCost": 5,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "CreateDams",
+    "nevernamed.inscryption.sigils_Supercharge",
+    "GainGemBlue"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Queen.png",
+  "emissionTexture": "QueenEmissives.png",
+  "pixelTexture": "QueenSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "CustomDamDefinition": "DeltaScription_Wires",
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+    "decks": [
+	{
+            "name": "ChessBoard",
+            "iconTexture": "DeltaScription_ChessBoard.png",
+            "cards": [ "DeltaBeginning_CRound", "DeltaBeginning_MrElegance", "DeltaBeginning_MrSociety", "DeltaBeginning_Ponman", "DeltaBeginning_DarkPonman" ]
+        },
+		{
+            "name": "Forest",
+            "iconTexture": "DeltaScription_Forest.png",
+            "cards": [ "DeltaBeginning_Rabbick", "DeltaBeginning_Bloxer", "DeltaBeginning_Seam", "DeltaBeginning_StarBird", "DeltaBeginning_BlockTree" ]
+        },
+		{
+            "name": "BakeSale",
+            "iconTexture": "DeltaScription_BakeSale.png",
+            "cards": [ "DeltaBeginning_Hathy", "DeltaBeginning_RudinnRanger", "DeltaBeginning_Lancer", "DeltaScription_Starwalker"]
+        },
+		{
+            "name": "CardCastle",
+            "iconTexture": "DeltaScription_CardCastle.png",
+            "cards": [ "DeltaBeginning_King", "DeltaBeginning_Lancer", "DeltaBeginning_HeadHathy", "DeltaBeginning_RudinnRanger", "DeltaBeginning_RouxlsKaard" ]
+        },
+		{
+            "name": "QueensArmy",
+            "iconTexture": "DeltaScription_QueensArmy.png",
+            "cards": [ "DeltaCyber_Queen", "DeltaCyber_GIGAQueen" ]
+        },
+		{
+            "name": "TasqueManagment",
+            "iconTexture": "DeltaScription_TasqueManagment.png",
+            "cards": [ "DeltaCyber_TasqueManager", "DeltaCyber_Tasque", "DeltaCyber_Tasque", "DeltaCyber_Tasque", "DeltaCyber_Tasque" ]
+        },
+		{
+            "name": "Addisons",
+            "iconTexture": "DeltaScription_Adverts.png",
+            "cards": [ "DeltaCyber_Spamton", "DeltaCyber_AddisonPower", "DeltaCyber_AddisonHealth", "DeltaCyber_AddisonGemPower", "DeltaCyber_AddisonAnything" ]
+        },
+		{
+            "name": "SwatchsPaint",
+            "iconTexture": "DeltaScription_SwatchsPaint.png",
+            "cards": [ "DeltaCyber_Swatch", "DeltaCyber_SwatchlingRed", "DeltaCyber_SwatchlingBlue", "DeltaCyber_SwatchlingGreen" ]
+        },
+		{
+            "name": "DarkSanctuary",
+            "iconTexture": "DeltaScription_Sanctuary.png",
+            "cards": [ "DeltaProphecy_Guei", "DeltaProphecy_Mizzle", "DeltaProphecy_Mizzle", "DeltaProphecy_OrganikkA" ]
+        },
+		{
+            "name": "Jackenstein",
+            "iconTexture": "DeltaScription_JackDeck.png",
+            "cards": [ "DeltaProphecy_Guei", "DeltaProphecy_FireExtinguisher", "DeltaProphecy_YOURTAKINGTOOLONG", "DeltaProphecy_Jackenstein" ]
+        },
+		{
+            "name": "GersonsStudy",
+            "iconTexture": "DeltaScription_GersonStudy.png",
+            "cards": [ "DeltaProphecy_Guei", "DeltaProphecy_Guei", "DeltaProphecy_OldMan" ]
+        },
+		{
+            "name": "TheRoaring",
+            "iconTexture": "DeltaScription_TheRoaring.png",
+            "cards": [ "DeltaScription_December", "DeltaProphecy_Titan", "DeltaProphecy_TitanSpawnA", "DeltaProphecy_TitanSpawnB", "DeltaProphecy_Unknown" ]
+        },
+		{
+            "name": "AllAccordingToPlant",
+            "iconTexture": "DeltaScription_FlowerKingdom.png",
+            "cards": [ "DeltaFlower_Seth", "DeltaFlower_Blue", "DeltaFlower_Green", "DeltaFlower_Orange", "DeltaFlower_Aqua", "DeltaFlower_Yellow" ]
+        },
+		{
+            "name": "FlowerKingdom",
+            "iconTexture": "DeltaScription_GardenGuards.png",
+            "cards": [ "DeltaFlower_ShearyB", "DeltaFlower_Netski", "DeltaFlower_Shi", "DeltaFlower_Shi" ]
+        },
+		{
+            "name": "CatBites",
+            "iconTexture": "DeltaScription_CatBites.png",
+            "cards": [ "DeltaFlower_Pink", "DeltaScription_Maddie", "DeltaFlower_Zenlooker", "DeltaScription_Friend" ]
+        },
+		{
+            "name": "FlowerCastle",
+            "iconTexture": "DeltaScription_FlowerCastle.png",
+            "cards": [ "DeltaFlower_Shinobeetle", "DeltaFlower_Terakota", "DeltaFlower_PotArcher" ]
+        }
+
+
+		]
+}
+
+

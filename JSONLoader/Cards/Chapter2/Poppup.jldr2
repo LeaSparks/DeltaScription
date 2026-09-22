@@ -1,0 +1,28 @@
+{
+  "name": "Poppup",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Poppup",
+  "description": "Known to say ASOBOH, which means \"Let's Play!\" ... does it know that?",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld",
+    "Reptile"
+  ],
+  "abilities": [
+    "RandomAbility",
+    "Submerge",
+    "ATS_Submerged Ambush"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Poppup.png",
+  "emissionTexture": "PoppupEmissives.png"
+}

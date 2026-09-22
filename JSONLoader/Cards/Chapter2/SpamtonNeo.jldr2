@@ -1,0 +1,31 @@
+{
+  "name": "SpamtonNeo",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Spamton NEO",
+  "description": "Puppet body trapped in strings.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 14,
+  "bloodCost": 4,
+  "energyCost": 6,
+  "tribes": [
+    "DeltaScription_Cat",
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Batch Delete",
+    "nevernamed.inscryption.sigils_Circuit Maker",
+    "nevernamed.inscryption.sigils_Repulsive When Powered"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "SpamtonNeo.png",
+  "emissionTexture": "SpamtonNeoEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

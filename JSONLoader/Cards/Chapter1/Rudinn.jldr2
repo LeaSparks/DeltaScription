@@ -1,0 +1,30 @@
+{
+  "name": "Rudinn",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Rudinn",
+  "description": "This ambivalent diamond isn't any girl's best friend.",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "ATS_Cowardly",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaBeginning_RudinnRanger",
+  "evolveTurns": 2,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Rudinn.png",
+  "emissionTexture": "RudinnEmissives.png",
+  "pixelTexture": "RudinnSmall.png",
+  "extensionProperties": {
+    "customBackground": "SuitOfDiamondsBackground.png",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackCardKingdom.png"
+  }
+}

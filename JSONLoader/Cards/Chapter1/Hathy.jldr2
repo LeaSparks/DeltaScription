@@ -1,0 +1,34 @@
+{
+  "name": "Hathy",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Hathy",
+  "description": "A heart with a big heart. Always supporting others with her bullets.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "hideAttackAndHealth": true,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Bandage Weaver",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaBeginning_HeadHathy",
+  "evolveTurns": 2,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Hathy.png",
+  "emissionTexture": "HathyEmissives.png",
+  "pixelTexture": "HathySmall.png",
+  "extensionProperties": {
+    "customBackground": "SuitOfHeartsBackground.png"
+  }
+}

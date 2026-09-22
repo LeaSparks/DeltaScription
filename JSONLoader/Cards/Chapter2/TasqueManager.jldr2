@@ -1,0 +1,32 @@
+{
+  "name": "TasqueManager",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Tasque Manager",
+  "description": "Obsessed with order, and abhors Chaos.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bonesCost": 2,
+  "energyCost": 5,
+  "tribes": [
+    "DeltaScription_Cat"
+  ],
+  "abilities": [
+    "ATS_Tribe Attack",
+    "ATS_Tribe Health",
+    "ATS_Tribal Tutor"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "TasqueManager.png",
+  "emissionTexture": "TasqueManagerEmissives.png",
+  "pixelTexture": "TasqueManagerSmall.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

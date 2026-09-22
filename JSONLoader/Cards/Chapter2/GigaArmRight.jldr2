@@ -1,0 +1,26 @@
+{
+  "name": "GigaArmRight",
+  "modPrefix": "DeltaScription",
+  "displayedName": "GIGA ARM",
+  "cardComplexity": "Simple",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sweeping Strike Right",
+    "nevernamed.inscryption.sigils_Claw"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "GigaArmRight.png",
+  "emissionTexture": "GigaArmRightEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

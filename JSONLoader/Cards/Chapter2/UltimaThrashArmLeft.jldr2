@@ -1,0 +1,26 @@
+{
+  "name": "UltimaThrashArmLeft",
+  "modPrefix": "DeltaScription",
+  "displayedName": "ULTIMATE ARM",
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 6,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sweeping Strike Left",
+    "nevernamed.inscryption.sigils_Claw"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "UltimaThrashArmLeft.png",
+  "emissionTexture": "UltimaThrashArmLeftEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

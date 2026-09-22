@@ -1,0 +1,29 @@
+{
+  "name": "Hacker",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Hacker",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Clawed"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Hacker.png",
+  "emissionTexture": "HackerEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "ClawedLeftClawOverride": "DeltaScription_BlueCheckmark",
+    "ClawedRightClawOverride": "DeltaScription_BlueCheckmark"
+  }
+}

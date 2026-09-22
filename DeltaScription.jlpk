@@ -1,0 +1,7 @@
+{
+	"Title": "DeltaScription CORE",
+	"Description": "A pack of [count] cards based on Recurring Deltarune characters from chapters 1-5 that the mod requires to function. DO NOT DISABLE THIS. DO NOT USE WITHOUT AT LEAST ONE CHAPTER PACK.",
+	"ModPrefix": "DeltaScription",
+	"PackArt": "DeltaScriptionpack.png",
+    "ValidFor": ["LeshyPack"]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "RedScarf",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Red Scarf",
+  "description": "A basic scarf made of lightly magical fiber.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 0,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "nevernamed.inscryption.sigils_Fire Resistant"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "RedScarf.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

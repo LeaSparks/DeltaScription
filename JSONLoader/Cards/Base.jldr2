@@ -1,0 +1,23 @@
+{
+  "name": "Base",
+  "modPrefix": "DeltaScription",
+  "displayedName": " Base",
+  "description": "彼女は、ニャーと鳴くタイプの幽霊だ。",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_ShadowCrystal"
+  ],
+  "specialAbilities": [
+    "Daus"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Immaterial",
+    "Sacrificial"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Blank.png"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "FriendTail",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Tail of Hell",
+  "baseHealth": 3,
+  "specialStatIcon": "Mirror",
+  "traits": [
+    "Uncuttable ",
+    "Pelt"
+  ],
+  "specialAbilities": [
+    "Mirror"
+  ],
+  "abilities": [
+    "Evolve",
+    "SteelTrap"
+  ],
+  "evolveIntoName": "DeltaScription_Friend",
+  "evolveTurns": 2,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TailFriend.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "ImgDepths.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customPortraitColor": "#ffffff",
+    "customHealthColor ": "#ffffff"
+  }
+}

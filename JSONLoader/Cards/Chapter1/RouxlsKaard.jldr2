@@ -1,0 +1,36 @@
+{
+  "name": "RouxlsKaard",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Rouxls Kaard",
+  "description": "The last card in every deck.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 6,
+  "bloodCost": 3,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Immaculate Form",
+    "BuffEnemy",
+    "nevernamed.inscryption.sigils_Blue Inspiration",
+    "nevernamed.inscryption.sigils_Bleach",
+    "nevernamed.inscryption.sigils_Sapphire Dependant",
+    "nevernamed.inscryption.sigils_Unstable Gems"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "RouxlsKaard.png",
+  "emissionTexture": "RouxlsKaardEmissives.png",
+  "pixelTexture": "RouxlsKaardSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareRulesBackground.png"
+  }
+}

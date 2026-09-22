@@ -1,0 +1,31 @@
+{
+  "name": "Guei",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Guei",
+  "description": "A waxy spirit that generates ghastly flames.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "bonesCost": 3,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
+    "nevernamed.inscryption.sigils_Burning"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Guei.png",
+  "emissionTexture": "GueiEmissives.png",
+  "pixelTexture": "GueiSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#34ebeb"
+  }
+}

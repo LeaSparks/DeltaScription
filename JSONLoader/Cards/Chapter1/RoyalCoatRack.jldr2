@@ -1,0 +1,24 @@
+{
+  "name": "RoyalCoatRack",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Royal Coat Rack",
+  "description": "What are we even doing anymore.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseHealth": 3,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Crusher"
+  ],
+  "texture": "RoyalCoatRack.png",
+  "emissionTexture": "RoyalCoatRackEmissives.png"
+}

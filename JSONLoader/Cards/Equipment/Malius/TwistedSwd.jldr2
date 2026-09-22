@@ -1,0 +1,32 @@
+{
+  "name": "TwistedSwd",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Twisted Sword",
+  "description": "A strange blade.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 16,
+  "baseHealth": 0,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "nevernamed.inscryption.sigils_Abstain"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "BraveAx.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

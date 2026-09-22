@@ -1,0 +1,39 @@
+{
+  "name": "ThornRing",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Thorn Ring",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 5,
+  "bloodCost": 1,
+  "gemsCost": [
+    "Blue"
+  ],
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "traits": [
+    "SatisfiesRingTrial",
+    "KillsSurvivors"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "nevernamed.inscryption.sigils_Blood Dependent",
+    "nevernamed.inscryption.sigils_Exceptional Sacrifice",
+    "nevernamed.inscryption.sigils_Splash Zone"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableStatColors",
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "ThornRing.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

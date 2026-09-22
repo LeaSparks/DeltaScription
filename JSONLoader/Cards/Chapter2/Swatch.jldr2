@@ -1,0 +1,32 @@
+{
+  "name": "Swatch",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Swatch",
+  "description": "Operating owner of the \"Color Cafe\".",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Artistic License",
+    "nevernamed.inscryption.sigils_Copier"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Swatch.png",
+  "emissionTexture": "SwatchEmissives.png",
+  "pixelTexture": "SwatchSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

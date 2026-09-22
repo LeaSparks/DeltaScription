@@ -1,0 +1,29 @@
+{
+  "name": "Ferroll",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Ferroll",
+  "description": "A strange hammer, allergic to cats.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Splash Damage"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Ferroll.png",
+  "emissionTexture": "FerrollEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#efff45"
+  }
+}

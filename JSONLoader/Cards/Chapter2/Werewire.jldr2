@@ -1,0 +1,31 @@
+{
+  "name": "Werewire",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Werewire",
+  "description": "A corrupted Plugboy, sleepwalking through a nightmare.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "energyCost": 1,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "Evolve",
+    "ConduitNull"
+  ],
+  "evolveIntoName": "DeltaCyber_Werewerewire",
+  "evolveTurns": 2,
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Werewire.png",
+  "emissionTexture": "WerewireEmissives.png",
+  "pixelTexture": "WerewireSmall.png",
+  "extensionProperties": {}
+}

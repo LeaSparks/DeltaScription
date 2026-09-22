@@ -1,0 +1,24 @@
+{
+  "name": "Pipis",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Pipis",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 1,
+  "abilities": [
+    "ATS_Toxin (Sickening)",
+    "nevernamed.inscryption.sigils_Frail Sacrifice",
+    "Morsel"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Pipis.png",
+  "emissionTexture": "PipisEmissives.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "MantisDancer",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Mantis Dancer",
+  "description": "A strange bug that seems to resemble a flower mantis.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom",
+    "Insect"
+  ],
+  "abilities": [
+    "SplitStrike"
+  ],
+  "texture": "MantisDancer.png",
+  "emissionTexture": "MantisDancerEmissives.png"
+}

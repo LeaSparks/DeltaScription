@@ -1,0 +1,24 @@
+{
+  "name": "Bibliox",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Bibliox",
+  "description": "A worldly wizard that casts spells by spelling. Unfortunately prone to typos.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Sanctuary",
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Mystery Mox",
+    "nevernamed.inscryption.sigils_Glitterheart"
+  ],
+  "texture": "Bibliox.png",
+  "emissionTexture": "BiblioxEmissives.png"
+}

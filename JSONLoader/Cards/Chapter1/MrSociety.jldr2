@@ -1,0 +1,24 @@
+{
+  "name": "MrSociety",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Mr. Society",
+  "description": "A timid and insignificant bishop.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bonesCost": 5,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Home Run",
+    "Strafe"
+  ],
+  "texture": "MrSociety.png",
+  "emissionTexture": "MrSocietyEmissives.png",
+  "pixelTexture": "MrSocietySmall.png"
+}

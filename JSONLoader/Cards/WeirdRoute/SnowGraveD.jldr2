@@ -1,0 +1,24 @@
+{
+  "name": "SnowGrave",
+  "modPrefix": "DeltaSideB",
+  "displayedName": "SnowGrave",
+  "baseAttack": 0,
+  "baseHealth": 6,
+  "tribes": [
+    "Bird",
+    "DeltaScription_Lightner"
+  ],
+  "traits": [
+    "Terrain",
+    "Uncuttable "
+  ],
+  "abilities": [
+    "IceCube",
+    "nevernamed.inscryption.sigils_Bone Spurs"
+  ],
+  "iceCubeName": "DeltaSideB_BerdlyWeak",
+  "appearanceBehaviour": [
+    "TerrainBackground"
+  ],
+  "texture": "SnowGrave.png"
+}

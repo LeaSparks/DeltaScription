@@ -1,0 +1,32 @@
+{
+  "name": "WhiteRibbon",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "White Ribbon",
+  "description": "A crinkly hair ribbon that slightly increases your defense.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 0,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "ATS_Thick Shell"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "WhiteRibbon.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

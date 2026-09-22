@@ -1,0 +1,45 @@
+{
+  "name": "Unknown",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "???",
+  "description": "???",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 3,
+  "gemsCost": [
+    "Green"
+  ],
+  "tribes": [
+    "DeltaScription_Titanspawn"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "Deathtouch",
+    "PreventAttack",
+    "nevernamed.inscryption.sigils_Doomed"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Unknown.png",
+  "emissionTexture": "UnknownEmissives.png",
+  "pixelTexture": "UnknownSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#ffffff",
+    "customBackground": "AngelsHeavenBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor ": "#ffffff",
+    "CustomDoomedDuration": "2"
+  }
+}

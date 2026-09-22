@@ -1,0 +1,23 @@
+{
+  "name": "MrElegance",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Mr. Elegance",
+  "description": "The board's knight, different than it seems.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bonesCost": 4,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Diagonal Strike"
+  ],
+  "texture": "MrElegance.png",
+  "emissionTexture": "MrEleganceEmissives.png",
+  "pixelTexture": "MrEleganceSmall.png"
+}

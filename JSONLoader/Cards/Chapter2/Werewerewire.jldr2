@@ -1,0 +1,30 @@
+{
+  "name": "Werewerewire",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Werewerewire",
+  "description": "A Werewire that absorbed its wire and became stronger.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 4,
+  "baseHealth": 6,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "CellBuffSelf",
+    "ConduitNull",
+    "nevernamed.inscryption.sigils_Vampiric"
+  ],
+  "evolveIntoName": "DeltaCyber_Werewerewire",
+  "evolveTurns": 2,
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Werewerewire.png",
+  "emissionTexture": "WerewerewireEmissives.png",
+  "pixelTexture": "WerewerewireSmall.png"
+}

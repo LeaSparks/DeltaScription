@@ -1,0 +1,32 @@
+{
+  "name": "HeadHathy",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Head Hathy",
+  "description": "Although stronger than Hathy, seems to have fewer friends.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Glitterheart",
+    "nevernamed.inscryption.sigils_Healer"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "HeadHathy.png",
+  "emissionTexture": "HeadHathyEmissives.png",
+  "pixelTexture": "HeadHathySmall.png",
+  "extensionProperties": {
+    "customBackground": "SuitOfHeartsBackground.png"
+  }
+}

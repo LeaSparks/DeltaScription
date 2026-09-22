@@ -1,0 +1,28 @@
+{
+  "name": "Balthizard",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Balthizard",
+  "description": "An ancient aromancer. Punishes intruders with beautiful scent.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "gemsCost": [
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
+    "nevernamed.inscryption.sigils_Ignition",
+    "ATS_Bodyguard"
+  ],
+  "texture": "Balthizard.png",
+  "emissionTexture": "BalthizardEmissives.png"
+}

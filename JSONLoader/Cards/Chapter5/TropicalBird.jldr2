@@ -1,0 +1,24 @@
+{
+  "name": "TropicalBird",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Tropical Starbird",
+  "description": "These Tropical Birds are            Tropissing me off.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom",
+    "Bird"
+  ],
+  "abilities": [
+    "Flying",
+    "nevernamed.inscryption.sigils_Flighty"
+  ],
+  "texture": "TropicalBird.png",
+  "emissionTexture": "TropicalBirdEmissives.png"
+}

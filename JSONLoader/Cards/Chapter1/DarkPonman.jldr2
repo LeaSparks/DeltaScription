@@ -1,0 +1,23 @@
+{
+  "name": "DarkPonman",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Dark Ponman",
+  "description": " A stationary hazard, it keeps itself in check.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Trophy Hunter"
+  ],
+  "texture": "DarkPonman.png",
+  "emissionTexture": "DarkPonmanEmissives.png",
+  "pixelTexture": "DarkPonmanSmall.png"
+}

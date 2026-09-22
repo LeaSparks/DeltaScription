@@ -1,0 +1,30 @@
+{
+  "name": "SwatchlingRed",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Swatchling",
+  "description": "Colorful and dandy, you can always count on him to work hard.",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Twister",
+    "GainGemOrange"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
+  ],
+  "texture": "Swatchling.png",
+  "emissionTexture": "SwatchlingEmissives.png",
+  "pixelTexture": "SwatchlingSmall.png",
+  "extensionProperties": {
+    "TwisterTransformation": "DeltaCyber_SwatchlingBlue",
+    "customEmissionColor": " #ff0019"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "TitanspawnB",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Titanspawn",
+  "description": "A shard of fear.",
+  "cardComplexity": "Advanced",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "tribes": [
+    "DeltaScription_Titanspawn"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Docile",
+    "ATS_Bone prince 2",
+    "nevernamed.inscryption.sigils_Blood Guzzler"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TitanspawnB.png",
+  "emissionTexture": "TitanspawnBEmissives.png",
+  "pixelTexture": "TitanspawnBSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#ffffff",
+    "customBackground": "AngelsHeavenBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor ": "#ffffff"
+  }
+}

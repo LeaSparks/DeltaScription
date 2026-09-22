@@ -1,0 +1,25 @@
+{
+  "name": "ForgottenTree",
+  "modPrefix": "DeltaScription",
+  "displayedName": "???",
+  "description": "There isn't anyone behind it if you were wondering",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "baseHealth": 66,
+  "bloodCost": 6,
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "Reach",
+    "Sentry",
+    "ATS_Draw Card"
+  ],
+  "iceCubeName": "DeltaScription_Egg",
+  "appearanceBehaviour": [
+    "RedEmission"
+  ],
+  "texture": "ForgottenTree.png",
+  "emissionTexture": "ForgottenTreeEmissives.png"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "BlockTree",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Block Tree",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseHealth": 6,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Abstain",
+    "Reach",
+    "nevernamed.inscryption.sigils_Blood From Stone"
+  ],
+  "appearanceBehaviour": [
+    "TerrainBackground"
+  ],
+  "texture": "BlockTree.png",
+  "emissionTexture": "BlockTreeEmissives.png",
+  "pixelTexture": "BlockTreeSmall.png"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Wafer",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Wafer",
+  "description": "Figures shrouded in long green robes.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseHealth": 1,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "traits": [
+    "Gem"
+  ],
+  "abilities": [
+    "GainGemGreen",
+    "DrawCopy"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "nevernamed.inscryption.sigils_GreyCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Wafer.png",
+  "emissionTexture": "WaferEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#22e055"
+  }
+}

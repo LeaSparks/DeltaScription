@@ -1,0 +1,26 @@
+{
+  "name": "AddisonHealth",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Addison",
+  "description": "Physical embodiments of advertising.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Bandage Weaver"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "AddisonHealth.png",
+  "emissionTexture": "AddisonHealthEmissives.png",
+  "pixelTexture": "AddisonHealthSmall.png"
+}

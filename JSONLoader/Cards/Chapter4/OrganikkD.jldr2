@@ -1,0 +1,24 @@
+{
+  "name": "OrganikkD",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Organikk Quartet",
+  "description": "A quad of philosophers who study the ancient words.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 4,
+  "baseHealth": 8,
+  "bloodCost": 4,
+  "bonesCost": 4,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "QuadrupleBones",
+    "ATS_Superior Sacrifice"
+  ],
+  "texture": "OrganikkD.png",
+  "emissionTexture": "OrganikkDEmissives.png"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Egg",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Egg",
+  "description": "Cat Food.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 6,
+  "hideAttackAndHealth": true,
+  "bonesCost": 1,
+  "traits": [
+    "KillsSurvivors"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Instant Effect",
+    "DrawCopyOnDeath"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Egg.png",
+  "pixelTexture": "FriendSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "ImgDepths.png",
+    "customAttackColor": "#ff9900",
+    "customHealthColor ": "#ff0800",
+    "customNameColor": "#ffffff"
+  }
+}

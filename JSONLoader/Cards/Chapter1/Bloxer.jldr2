@@ -1,0 +1,24 @@
+{
+  "name": "Bloxer",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Bloxer",
+  "description": "A shape changing fighter. Ironically, blocking is not its forte.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Landscaper",
+    "nevernamed.inscryption.sigils_Bejeweled"
+  ],
+  "texture": "Bloxer.png",
+  "emissionTexture": "BloxerEmissives.png",
+  "pixelTexture": "BloxerSmall.png"
+}

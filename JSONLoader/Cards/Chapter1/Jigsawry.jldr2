@@ -1,0 +1,22 @@
+{
+  "name": "Jigsawry",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Jigsawry",
+  "description": "This mousenary is only fighting to make ends meet...",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Coward"
+  ],
+  "texture": "Jigsawry.png",
+  "emissionTexture": "JigsawryEmissives.png"
+}

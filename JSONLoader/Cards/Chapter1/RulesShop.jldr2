@@ -1,0 +1,36 @@
+{
+  "name": "RulesShop",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Rouxls Kaard's Shoppe",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 8,
+  "bloodCost": 4,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Immaculate Form",
+    "BuffEnemy",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "RulesShop.png",
+  "emissionTexture": "RulesShopEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RulesShopBackground.png",
+    "customAttackColor": "#ffffff",
+    "customHealthColor ": "#ffffff",
+    "customNameColor": "#ffffff"
+  }
+}

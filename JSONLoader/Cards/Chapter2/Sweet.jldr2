@@ -1,0 +1,26 @@
+{
+  "name": "Sweet",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Sweet",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 1,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Powered Quills",
+    "nevernamed.inscryption.sigils_Meaningless Bond"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Sweet.png",
+  "emissionTexture": "SweetEmissives.png"
+}

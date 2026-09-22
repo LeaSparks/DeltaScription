@@ -1,0 +1,33 @@
+{
+  "name": "Tao",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Tao",
+  "description": "A strange creature derived from a metronome.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseHealth": 1,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "traits": [
+    "Gem"
+  ],
+  "abilities": [
+    "GainGemBlue",
+    "DrawCopy"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "nevernamed.inscryption.sigils_GreyCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Tao.png",
+  "emissionTexture": "TaoEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#2709e8"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"Title": "The Prophecy",
+	"Description": "A pack of [count] cards based on Deltarune characters from chapter 4. This Mod was designed with using every pack together in mind, some cards may not work as intended..",
+	"ModPrefix": "DeltaProphecy",
+	"PackArt": "DeltaProphecyPack.png",
+    "ValidFor": ["LeshyPack"]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IconMan",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Icon Man",
+  "description": "Because Character Quota.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "IconMan.png",
+  "emissionTexture": "IconManEmissives.png"
+}

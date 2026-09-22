@@ -1,0 +1,24 @@
+{
+  "name": "Maus",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Maus",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "GainBattery"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Maus.png",
+  "emissionTexture": "MausEmissives.png"
+}

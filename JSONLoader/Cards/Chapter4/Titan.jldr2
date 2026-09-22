@@ -1,0 +1,56 @@
+{
+  "name": "Titan",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Titan",
+  "description": "Darkness incarnate.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 22,
+  "bloodCost": 6,
+  "bonesCost": 6,
+  "gemsCost": [
+    "Blue",
+    "Green",
+    "Orange"
+  ],
+  "tribes": [
+    "DeltaScription_Titanspawn"
+  ],
+  "traits": [
+    "Uncuttable ",
+    "Terrain"
+  ],
+  "specialAbilities": [
+    "nevernamed.inscryption.sigils_InherentGooey"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Annihilation",
+    "nevernamed.inscryption.sigils_Docile",
+    "ATS_Bone lord 6",
+    "nevernamed.inscryption.sigils_Enraged",
+    "Reach",
+    "nevernamed.inscryption.sigils_Rupture",
+    "nevernamed.inscryption.sigils_Kindred"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Titan.png",
+  "emissionTexture": "TitanEmissives.png",
+  "pixelTexture": "TitanSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#ffffff",
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "AngelsHeavenBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor ": "#ffffff"
+  }
+}

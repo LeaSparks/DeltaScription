@@ -1,0 +1,27 @@
+{
+  "name": "Trashy",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Trashy",
+  "description": "Don't",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "BuffEnemy"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Trashy.png",
+  "emissionTexture": "TrashyEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

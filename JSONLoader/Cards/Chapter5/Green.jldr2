@@ -1,0 +1,30 @@
+{
+  "name": "Green",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Green",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Bandage Weaver",
+    "nevernamed.inscryption.sigils_Medicinal"
+  ],
+  "onePerDeck": true,
+  "texture": "Green.png",
+  "emissionTexture": "GreenEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#05f020"
+  }
+}

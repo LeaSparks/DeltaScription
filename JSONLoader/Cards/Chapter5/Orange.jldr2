@@ -1,0 +1,36 @@
+{
+  "name": "Orange",
+  "modPrefix": "DeltaFlower",
+  "displayedName": " Orange",
+  "description": "A fighter. She tries to put on a brave face, but is rather sensitive.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "traits": [
+    "Ant"
+  ],
+  "specialAbilities": [
+    "Ant",
+    "Daus"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sturdy",
+    "nevernamed.inscryption.sigils_Piercing"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Orange.png",
+  "emissionTexture": "OrangeEmissives.png",
+  "pixelTexture": "FlowerSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#fc7703"
+  }
+}

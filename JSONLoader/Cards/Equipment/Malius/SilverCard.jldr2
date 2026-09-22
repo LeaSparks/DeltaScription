@@ -1,0 +1,30 @@
+{
+  "name": "SilverCard",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Silver Card",
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 0,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "DeathShield",
+    "ATS_Thick Shell",
+    "nevernamed.inscryption.sigils_Valuable"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "SilverCard.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

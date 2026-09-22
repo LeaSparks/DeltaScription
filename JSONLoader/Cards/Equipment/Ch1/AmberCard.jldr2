@@ -1,0 +1,31 @@
+{
+  "name": "AmberCard",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Amber Card",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 0,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_Equipment"
+  ],
+  "abilities": [
+    "ATS_Parasite",
+    "DeathShield"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "AmberCard.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "EquipmentPlaceholderBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "BannedSigilTransferTarget": "UwU"
+  }
+}

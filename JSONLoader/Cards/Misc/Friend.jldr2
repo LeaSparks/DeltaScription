@@ -1,0 +1,42 @@
+{
+  "name": "Friend",
+  "modPrefix": "DeltaScription",
+  "displayedName": "???",
+  "description": "The cats are not too smart, but once they find a target, they never stop chasing it until they get bored.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 6,
+  "baseHealth": 6,
+  "bloodCost": 3,
+  "bonesCost": 6,
+  "tribes": [
+    "DeltaScription_Cat"
+  ],
+  "traits": [
+    "KillsSurvivors",
+    "Uncuttable "
+  ],
+  "abilities": [
+    "SteelTrap",
+    "SquirrelOrbit",
+    "TailOnHit"
+  ],
+  "tailName": "DeltaScription_FriendTail",
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "ImgFriend.png",
+  "emissionTexture": "ImgFriendEmissives.png",
+  "pixelTexture": "FriendSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "ImgDepths.png",
+    "customAttackColor": "#ff9900",
+    "customHealthColor ": "#ff0800",
+    "customNameColor": "#ffffff"
+  }
+}

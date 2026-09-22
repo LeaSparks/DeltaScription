@@ -1,0 +1,26 @@
+{
+  "name": "GigaArmLeft",
+  "modPrefix": "DeltaScription",
+  "displayedName": "GIGA ARM",
+  "cardComplexity": "Simple",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sweeping Strike Left",
+    "nevernamed.inscryption.sigils_Claw"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "GigaArmLeft.png",
+  "emissionTexture": "GigaArmLeftEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RareTechPaperCardBackground.png"
+  }
+}

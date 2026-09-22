@@ -1,0 +1,33 @@
+{
+  "name": "KRound",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "K. Round",
+  "description": "Check? That's chess, not checkers!",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 3,
+  "baseHealth": 9,
+  "bloodCost": 3,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Diagonal Strike",
+    "nevernamed.inscryption.sigils_Morph Mover",
+    "nevernamed.inscryption.sigils_Bone Dependent",
+    "ATS_Draw Card"
+  ],
+  "iceCubeName": "DeltaBeginning_CRound",
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "KRound.png",
+  "emissionTexture": "KRoundEmissives.png",
+  "pixelTexture": "KRoundSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

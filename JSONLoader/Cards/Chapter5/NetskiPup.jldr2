@@ -1,0 +1,29 @@
+{
+  "name": "NetskiPup",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Netskie Pup",
+  "description": "A tricky fox...?",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "Evolve",
+    "RandomAbility"
+  ],
+  "evolveIntoName": "DeltaScription_Netski",
+  "evolveTurns": 1,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "NetskiPup.png",
+  "emissionTexture": "NetskiPupEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#e51df0"
+  }
+}

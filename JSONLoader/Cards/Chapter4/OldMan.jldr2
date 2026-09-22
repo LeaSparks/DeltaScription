@@ -1,0 +1,33 @@
+{
+  "name": "OldMan",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Old Man",
+  "description": "Ancient hero, brave, brilliant, and sharp.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "gemsCost": [
+    "Green"
+  ],
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "GainGemTriple",
+    "nevernamed.inscryption.sigils_Call To Arms",
+    "nevernamed.inscryption.sigils_Unhammerable"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "OldMan.png",
+  "emissionTexture": "OldManEmissives.png",
+  "pixelTexture": "OldManSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

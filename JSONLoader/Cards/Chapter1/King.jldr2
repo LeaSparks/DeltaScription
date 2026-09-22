@@ -1,0 +1,34 @@
+{
+  "name": "King",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "King",
+  "description": "The worse guy.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseHealth": 8,
+  "bloodCost": 4,
+  "bonesCost": 2,
+  "specialStatIcon": "nevernamed.inscryption.sigils_Damage Dice",
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Eternal",
+    "BoneDigger",
+    "nevernamed.inscryption.sigils_Armortify",
+    "nevernamed.inscryption.sigils_Coward"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "King.png",
+  "emissionTexture": "KingEmissives.png",
+  "pixelTexture": "KingSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "customBackground": "RareSuitOfSpadesBackground.png"
+  }
+}

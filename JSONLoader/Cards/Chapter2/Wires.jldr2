@@ -1,0 +1,28 @@
+{
+  "name": "Wires",
+  "modPrefix": "DeltaScription",
+  "displayedName": "Queen's Wires",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseHealth": 1,
+  "energyCost": 4,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Snare",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaScription_QueensWerewires",
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Wires.png",
+  "emissionTexture": "WiresEmissives.png"
+}

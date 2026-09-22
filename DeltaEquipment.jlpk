@@ -1,0 +1,7 @@
+{
+	"Title": "DeltaScription Equipment",
+	"Description": "A WIP pack of [count] cards based on Deltarune cards based on the game's items, the game was designed around having this enabled but if you don't like it, you may switch it off..",
+	"ModPrefix": "DeltaEquipment",
+	"PackArt": "DeltaEquipmentPack.png",
+    "ValidFor": ["LeshyPack"]
+}

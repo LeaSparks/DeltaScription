@@ -1,0 +1,7 @@
+{
+	"Title": "Festival Day",
+	"Description": "A pack of [count] cards based on Deltarune enemies from chapter 5. This Mod was designed with using every pack together in mind, some cards may not work as intended..",
+	"ModPrefix": "DeltaFlower",
+	"PackArt": "DeltaFlowerPack.png",
+    "ValidFor": ["LeshyPack"]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Shi",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Shi",
+  "description": "An immobile scarecrow who yells out the names of his special super hero attacks.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "Reach",
+    "nevernamed.inscryption.sigils_Wimpy",
+    "nevernamed.inscryption.sigils_Diagonal Strike"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Shi.png",
+  "emissionTexture": "ShiEmissives.png",
+  "pixelTexture": "ShiSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#d91c45"
+  }
+}

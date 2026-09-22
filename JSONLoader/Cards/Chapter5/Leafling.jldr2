@@ -1,0 +1,24 @@
+{
+  "name": "Leafling",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Leafling",
+  "description": "It blows carefree on the wind... until the wind stops blowing.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_FlowerKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Wingrider",
+    "Flying"
+  ],
+  "texture": "Leafling.png",
+  "emissionTexture": "LeaflingEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#b4c74f"
+  }
+}

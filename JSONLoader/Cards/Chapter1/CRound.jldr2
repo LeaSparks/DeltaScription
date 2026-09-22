@@ -1,0 +1,27 @@
+{
+  "name": "CRound",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "C. Round",
+  "description": "Despite appearances, it's trying its best to help you..",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Wavering Strike",
+    "nevernamed.inscryption.sigils_Globetrotter",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaBeginning_KRound",
+  "evolveTurns": 4,
+  "texture": "CRound.png",
+  "emissionTexture": "CRoundEmissives.png",
+  "pixelTexture": "CRoundSmall.png"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cuptain",
+  "modPrefix": "DeltaProphecy",
+  "displayedName": "Cuptain",
+  "description": "Plastic cups that walk on small, yellow legs.",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "specialStatIcon": "nevernamed.inscryption.sigils_Strength In Numbers",
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+  ],
+  "texture": "Cuptain.png",
+  "emissionTexture": "CuptainEmissives.png",
+  "pixelTexture": "CuptainSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#ff1100",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackSanctuary.png"
+  }
+}

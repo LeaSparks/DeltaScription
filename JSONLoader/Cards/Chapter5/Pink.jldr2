@@ -1,0 +1,38 @@
+{
+  "name": "Pink",
+  "modPrefix": "DeltaFlower",
+  "displayedName": "Pink",
+  "description": "彼女は「ニャー、ニャー」と鳴くような女の子だ。",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 3,
+  "tribes": [
+    "DeltaScription_ShadowCrystal",
+    "DeltaScription_Flower"
+  ],
+  "specialAbilities": [
+    "Daus"
+  ],
+  "abilities": [
+    "CreateBells",
+    "ATS_Host",
+    "Sacrificial"
+  ],
+  "iceCubeName": "DeltaScription_Maddie",
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "RareCardBackground"
+  ],
+  "texture": "Pink.png",
+  "emissionTexture": "PinkEmissives.png",
+  "pixelTexture": "PinkSmall.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#e8d60e",
+    "BannedSigilTransferVictim": "UwU"
+  }
+}

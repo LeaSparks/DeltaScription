@@ -1,0 +1,26 @@
+{
+  "name": "AddisonAnything",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Addison",
+  "description": "Physical embodiments of advertising.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "RandomAbility"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "AddisonAnything.png",
+  "emissionTexture": "AddisonAnythingEmissives.png",
+  "pixelTexture": "AddisonAnythingSmall.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "GouldenSam",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Goulden Sam",
+  "description": "Old circus wagons fashioned as prison cages.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 0,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Snare"
+  ],
+  "texture": "GouldenSam.png",
+  "emissionTexture": "GouldenSamEmissives.png"
+}

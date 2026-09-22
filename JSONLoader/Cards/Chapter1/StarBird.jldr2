@@ -1,0 +1,25 @@
+{
+  "name": "StarBird",
+  "modPrefix": "DeltaBeginning",
+  "displayedName": "Starbird",
+  "description": "These Birds are            Pissing me off.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_CardKingdom",
+    "Bird"
+  ],
+  "abilities": [
+    "Flying",
+    "nevernamed.inscryption.sigils_Retreat"
+  ],
+  "texture": "StarBird.png",
+  "emissionTexture": "StarBirdEmissives.png",
+  "pixelTexture": "StarBirdSmall.png"
+}

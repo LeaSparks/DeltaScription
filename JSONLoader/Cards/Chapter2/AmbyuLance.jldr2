@@ -1,0 +1,27 @@
+{
+  "name": "AmbyuLance",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Ambyu-Lance",
+  "description": "If it doesn't find an accident, it'll make one.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "energyCost": 3,
+  "tribes": [
+    "DeltaScription_CyberWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Regenerator",
+    "ConduitHeal"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "AmbyuLance.png",
+  "emissionTexture": "AmbyuLanceEmissives.png",
+  "pixelTexture": "AmbyuLanceSmall.png"
+}

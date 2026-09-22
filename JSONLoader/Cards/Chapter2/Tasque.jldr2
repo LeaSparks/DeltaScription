@@ -1,0 +1,27 @@
+{
+  "name": "Tasque",
+  "modPrefix": "DeltaCyber",
+  "displayedName": "Tasque",
+  "description": "This stray cat is in need of some management.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 1,
+  "tribes": [
+    "DeltaScription_CyberWorld",
+    "DeltaScription_Cat"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Spurred"
+  ],
+  "appearanceBehaviour": [
+    "nevernamed.inscryption.sigils_TechPaperCardBackground"
+  ],
+  "texture": "Tasque.png",
+  "emissionTexture": "TasqueEmissives.png",
+  "pixelTexture": "TasqueSmall.png"
+}
