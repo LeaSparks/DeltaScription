@@ -12,7 +12,8 @@
   "bloodCost": 3,
   "bonesCost": 2,
   "tribes": [
-    "DeltaScription_CardKingdom"
+    "DeltaScription_CardKingdom",
+    "Canine"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Diagonal Strike",
@@ -26,8 +27,5 @@
   ],
   "texture": "KRound.png",
   "emissionTexture": "KRoundEmissives.png",
-  "pixelTexture": "KRoundSmall.png",
-  "extensionProperties": {
-    "BannedSigilTransferVictim": "UwU"
-  }
+  "pixelTexture": "KRoundSmall.png"
 }

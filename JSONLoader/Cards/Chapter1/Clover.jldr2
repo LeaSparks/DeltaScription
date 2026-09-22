@@ -10,7 +10,8 @@
   "cardComplexity": "Intermediate",
   "baseAttack": 1,
   "baseHealth": 6,
-  "bonesCost": 2,
+  "bonesCost": 3,
+  "bloodCost": 1,
   "tribes": [
     "DeltaScription_CardKingdom"
   ],

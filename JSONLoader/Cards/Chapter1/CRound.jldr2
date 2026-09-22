@@ -12,7 +12,8 @@
   "baseHealth": 3,
   "bloodCost": 1,
   "tribes": [
-    "DeltaScription_CardKingdom"
+    "DeltaScription_CardKingdom",
+    "Canine"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Wavering Strike",

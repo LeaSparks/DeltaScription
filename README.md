@@ -28,7 +28,7 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v0.5.4:
+v0.5.5:
 
 - Published the Mod featuring:
 
@@ -70,5 +70,6 @@ v0.5.4:
 
 
 
-WIP, check the modding discord
+WIP
+https://github.com/LeaSparks/DeltaScription/wiki
 
