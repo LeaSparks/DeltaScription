@@ -8,24 +8,25 @@
     "ChoiceNode"
   ],
   "cardComplexity": "Intermediate",
-  "baseAttack": 1,
-  "baseHealth": 3,
+  "baseAttack": 0,
+  "baseHealth": 4,
   "bloodCost": 1,
-  "bonesCost": 3,
   "tribes": [
     "DeltaScription_Sanctuary",
     "DeltaScription_TVWorld"
   ],
   "traits": [
-    "Terrain"
+    "Terrain",
+    "Gem"
   ],
   "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
     "Evolve",
     "nevernamed.inscryption.sigils_Waterbird",
     "GainGemBlue"
   ],
   "evolveIntoName": "DeltaProphecy_MissMizzle",
-  "evolveTurns": 1,
+  "evolveTurns": 2,
   "appearanceBehaviour": [
     "spapi.inscryption.configemissions.ConfigurableEmissionColor",
     "nevernamed.inscryption.sigils_RareTerrainBackground"

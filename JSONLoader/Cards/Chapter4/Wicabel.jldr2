@@ -9,7 +9,7 @@
   ],
   "cardComplexity": "Vanilla",
   "baseAttack": 0,
-  "baseHealth": 2,
+  "baseHealth": 4,
   "bloodCost": 1,
   "bonesCost": 1,
   "gemsCost": [
@@ -18,6 +18,9 @@
   "specialStatIcon": "Bell",
   "tribes": [
     "DeltaScription_Sanctuary"
+  ],
+  "traits": [
+    "Gem"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Mystery Mox",

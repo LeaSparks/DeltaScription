@@ -21,12 +21,14 @@
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [
-    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
   ],
   "texture": "Seth.png",
   "emissionTexture": "SethEmissives.png",
   "pixelTexture": "FlowerSmall.png",
   "extensionProperties": {
-    "customEmissionColorHEX": "#d834eb"
+    "customEmissionColorHEX": "#d834eb",
+    "BannedFromCampfire": "UwU"
   }
 }

@@ -8,7 +8,7 @@
   ],
   "cardComplexity": "Simple",
   "baseAttack": 3,
-  "baseHealth": 6,
+  "baseHealth": 7,
   "bloodCost": 1,
   "bonesCost": 2,
   "energyCost": 4,

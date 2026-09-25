@@ -29,8 +29,8 @@
   "abilities": [
     "nevernamed.inscryption.sigils_Annihilation",
     "nevernamed.inscryption.sigils_Docile",
-    "ATS_Bone lord 6",
     "nevernamed.inscryption.sigils_Enraged",
+    "nevernamed.inscryption.sigils_Giant",
     "Reach",
     "nevernamed.inscryption.sigils_Rupture",
     "nevernamed.inscryption.sigils_Kindred"
@@ -48,6 +48,9 @@
   "extensionProperties": {
     "customEmissionColorHEX": "#ffffff",
     "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "BannedFromCampfire": "UwU",
+    "BannedFromBoneLord": "UwU",
     "customBackground": "AngelsHeavenBackground.png",
     "customAttackColor": "#ffffff",
     "customNameColor": "#ffffff",

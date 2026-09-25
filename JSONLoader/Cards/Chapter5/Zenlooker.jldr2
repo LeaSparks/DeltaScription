@@ -12,7 +12,8 @@
   "baseHealth": 1,
   "bonesCost": 2,
   "tribes": [
-    "DeltaScription_FlowerKingdom"
+    "DeltaScription_FlowerKingdom",
+    "DeltaScription_Cat"
   ],
   "texture": "Zenlooker.png",
   "emissionTexture": "ZenlookerEmissives.png",

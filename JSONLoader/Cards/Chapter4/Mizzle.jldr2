@@ -10,11 +10,12 @@
   "cardComplexity": "Vanilla",
   "baseAttack": 1,
   "baseHealth": 3,
-  "bloodCost": 1,
+  "bonesCost": 2,
   "tribes": [
     "DeltaScription_Sanctuary"
   ],
   "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
     "ATS_Asleep",
     "Flying",
     "Submerge"

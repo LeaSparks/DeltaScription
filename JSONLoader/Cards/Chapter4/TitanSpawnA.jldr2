@@ -10,8 +10,7 @@
     "DeltaScription_Titanspawn"
   ],
   "abilities": [
-    "nevernamed.inscryption.sigils_Docile",
-    "ATS_Bone prince 2"
+    "nevernamed.inscryption.sigils_Docile"
   ],
   "appearanceBehaviour": [
     "spapi.inscryption.configemissions.ConfigurableBackground",

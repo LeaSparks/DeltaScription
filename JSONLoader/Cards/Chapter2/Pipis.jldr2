@@ -2,10 +2,6 @@
   "name": "Pipis",
   "modPrefix": "DeltaCyber",
   "displayedName": "Pipis",
-  "metaCategories": [
-    "ChoiceNode",
-    "TraderOffer"
-  ],
   "cardComplexity": "Vanilla",
   "baseAttack": 1,
   "baseHealth": 1,

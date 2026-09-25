@@ -2,9 +2,6 @@
   "name": "Wires",
   "modPrefix": "DeltaScription",
   "displayedName": "Queen's Wires",
-  "metaCategories": [
-    "TraderOffer"
-  ],
   "cardComplexity": "Intermediate",
   "baseHealth": 1,
   "energyCost": 4,

@@ -8,9 +8,8 @@
     "ChoiceNode"
   ],
   "cardComplexity": "Intermediate",
-  "baseAttack": 1,
+  "baseAttack": 10,
   "baseHealth": 10,
-  "bloodCost": 3,
   "gemsCost": [
     "Orange"
   ],
@@ -18,8 +17,9 @@
     "DeltaScription_Sanctuary"
   ],
   "abilities": [
-    "nevernamed.inscryption.sigils_Trampler",
-    "nevernamed.inscryption.sigils_Crossbones"
+    "AllStrike",
+    "nevernamed.inscryption.sigils_Doomed",
+    "PermaDeath"
   ],
   "appearanceBehaviour": [
     "DefaultEmission"
@@ -27,5 +27,7 @@
   "texture": "YOURTAKINGTOOLONG.png",
   "emissionTexture": "YOURTAKINGTOOLONGEmissives.png",
   "pixelTexture": "yourtakingtoolongsmall.png",
-  "extensionProperties": {}
+  "extensionProperties": {
+  "BannedSigilTransferVictim": "UwU"
+}
 }

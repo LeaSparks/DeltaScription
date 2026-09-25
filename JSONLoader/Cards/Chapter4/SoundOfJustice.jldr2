@@ -8,7 +8,7 @@
   ],
   "cardComplexity": "Vanilla",
   "baseAttack": 4,
-  "baseHealth": 4,
+  "baseHealth": 8,
   "bloodCost": 4,
   "tribes": [
     "DeltaScription_Sanctuary"

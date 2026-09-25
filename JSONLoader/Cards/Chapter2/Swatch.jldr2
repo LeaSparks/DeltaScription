@@ -12,11 +12,13 @@
   "bloodCost": 2,
   "energyCost": 2,
   "tribes": [
-    "DeltaScription_CyberWorld"
+    "DeltaScription_Equipment"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Artistic License",
-    "nevernamed.inscryption.sigils_Copier"
+    "nevernamed.inscryption.sigils_Copier",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer"
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [

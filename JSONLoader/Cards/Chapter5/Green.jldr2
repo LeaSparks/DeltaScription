@@ -21,10 +21,15 @@
     "nevernamed.inscryption.sigils_Medicinal"
   ],
   "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
+  ],
   "texture": "Green.png",
   "emissionTexture": "GreenEmissives.png",
   "pixelTexture": "FlowerSmall.png",
   "extensionProperties": {
-    "customEmissionColorHEX": "#05f020"
+    "customEmissionColorHEX": "#05f020",
+    "BannedFromCampfire": "UwU"
   }
 }

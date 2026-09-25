@@ -8,7 +8,7 @@
     "ChoiceNode"
   ],
   "cardComplexity": "Intermediate",
-  "baseAttack": 3,
+  "baseAttack": 2,
   "baseHealth": 5,
   "bloodCost": 1,
   "bonesCost": 2,
@@ -19,6 +19,7 @@
     "DeltaScription_Sanctuary"
   ],
   "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
     "ATS_Deadly Waters",
     "Flying",
     "Submerge",

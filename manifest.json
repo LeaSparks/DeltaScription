@@ -1,7 +1,7 @@
 {
   "name": "DeltaScription",
-  "description": "An expansion for Kaycees Mod that adds Deltarune Characters as cards!",
-  "version_number": "1.5.5",
+  "description": "SORRY ABOUT THE LAST UPDATE BREAKING STUFF. An expansion for Kaycees Mod that adds Deltarune Characters as cards!",
+  "version_number": "1.5.7.1",
   "dependencies": [ "API_dev-API-2.24.1","MADH95Mods-JSONCardLoader-2.7.1","SpecialAPI-Configurable_Emissions_and_Backgrounds-1.0.0","Nevernamed-Nevernameds_Sigilarium-1.16.4","AllTheSigils-All_The_Sigils-3.0.6","TVFLabs-CustomSideDeck-1.2.0","Infiniscryption-Pack_Management_API-1.1.4" ],
   "website_url": "https://github.com/LeaSparks/DeltaScription/wiki"
 }

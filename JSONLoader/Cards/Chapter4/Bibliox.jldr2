@@ -10,10 +10,13 @@
   "cardComplexity": "Simple",
   "baseAttack": 1,
   "baseHealth": 2,
-  "bonesCost": 2,
+  "bloodCost": 1,
   "tribes": [
     "DeltaScription_Sanctuary",
     "DeltaScription_TVWorld"
+  ],
+  "traits": [
+    "Gem"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Mystery Mox",

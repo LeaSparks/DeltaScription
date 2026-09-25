@@ -3,8 +3,8 @@
   "modPrefix": "DeltaScription",
   "displayedName": "Blue Checkmark",
   "cardComplexity": "Vanilla",
-  "baseAttack": 1,
-  "baseHealth": 3,
+  "baseAttack": 2,
+  "baseHealth": 2,
   "traits": [
     "Terrain"
   ],

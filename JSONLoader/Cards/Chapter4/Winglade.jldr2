@@ -11,7 +11,7 @@
   "baseAttack": 2,
   "baseHealth": 2,
   "gemsCost": [
-    "Blue"
+    "Orange"
   ],
   "tribes": [
     "DeltaScription_Sanctuary"

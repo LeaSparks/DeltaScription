@@ -9,7 +9,7 @@
   "cardComplexity": "Vanilla",
   "baseAttack": 2,
   "baseHealth": 8,
-  "bonesCost": 3,
+  "bloodCost": 1,
   "gemsCost": [
     "Blue",
     "Green",
@@ -24,7 +24,7 @@
     "nevernamed.inscryption.sigils_Omni Guardian",
     "WhackAMole",
     "nevernamed.inscryption.sigils_Unhammerable",
-    "nevernamed.inscryption.sigils_Diagonal Strike"
+    "SplitStrike"
   ],
   "appearanceBehaviour": [
     "RareCardBackground"

@@ -40,6 +40,6 @@
     "customAttackColor": "#ffffff",
     "customNameColor": "#ffffff",
     "customHealthColor ": "#ffffff",
-    "CustomDoomedDuration": "2"
+    "CustomDoomedDuration": "3"
   }
 }

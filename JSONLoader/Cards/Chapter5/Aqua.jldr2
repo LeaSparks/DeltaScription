@@ -20,12 +20,14 @@
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [
-    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
   ],
   "texture": "Aqua.png",
   "emissionTexture": "AquaEmissives.png",
   "pixelTexture": "FlowerSmall.png",
   "extensionProperties": {
-    "customEmissionColorHEX": "#00f7ff"
+    "customEmissionColorHEX": "#00f7ff",
+    "BannedFromCampfire": "UwU"
   }
 }

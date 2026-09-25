@@ -20,7 +20,7 @@
     "ConduitNull"
   ],
   "evolveIntoName": "DeltaCyber_Werewerewire",
-  "evolveTurns": 2,
+  "evolveTurns": 3,
   "appearanceBehaviour": [
     "nevernamed.inscryption.sigils_TechPaperCardBackground"
   ],

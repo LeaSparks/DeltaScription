@@ -25,12 +25,14 @@
     "nevernamed.inscryption.sigils_Piercing"
   ],
   "appearanceBehaviour": [
-    "spapi.inscryption.configemissions.ConfigurableEmissionColor"
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
   ],
   "texture": "Orange.png",
   "emissionTexture": "OrangeEmissives.png",
   "pixelTexture": "FlowerSmall.png",
   "extensionProperties": {
-    "customEmissionColorHEX": "#fc7703"
+    "customEmissionColorHEX": "#fc7703",
+    "BannedFromCampfire": "UwU"
   }
 }

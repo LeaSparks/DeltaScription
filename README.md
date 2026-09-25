@@ -28,7 +28,7 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v0.5.5:
+v0.5.7.1:
 
 - Published the Mod featuring:
 
@@ -47,11 +47,7 @@ v0.5.5:
 
 # Patch Notes
 
-- Fixed Maddie's Background
-- Added Chapter 1 Equipment Cards: NOT TEXTURED
-- Fixed TailOfHell spawn trigger
-- Fixed TailOfHell Background
-- Attempted to fix name colour issue on AngelsHeaven Background
+- FIXED FATAL ERROR WITH HOLY WATERCOOLER
 
 
 # Credits
@@ -59,15 +55,12 @@ v0.5.5:
 - Lea - the main developer of the mod, put together the cards themselves and did the art assets for the project
 
 
-
 ## Special Thanks
 
 - Nevernamed - For some custom sigil implementation used on Flowery as well as the entire Nevernamed Sigils Pack
 
 
-
 # Card List
-
 
 
 WIP

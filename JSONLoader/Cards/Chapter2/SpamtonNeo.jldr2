@@ -13,12 +13,15 @@
   "energyCost": 6,
   "tribes": [
     "DeltaScription_Cat",
-    "DeltaScription_CyberWorld"
+    "DeltaScription_CyberWorld",
+    "DeltaScription_ShadowCrystal"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Batch Delete",
     "nevernamed.inscryption.sigils_Circuit Maker",
-    "nevernamed.inscryption.sigils_Repulsive When Powered"
+    "nevernamed.inscryption.sigils_Repulsive When Powered",
+    "Flying",
+    "ConduitNull"
   ],
   "appearanceBehaviour": [
     "spapi.inscryption.configemissions.ConfigurableBackground"

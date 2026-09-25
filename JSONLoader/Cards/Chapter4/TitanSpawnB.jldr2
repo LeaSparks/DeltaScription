@@ -5,13 +5,12 @@
   "description": "A shard of fear.",
   "cardComplexity": "Advanced",
   "baseAttack": 2,
-  "baseHealth": 3,
+  "baseHealth": 4,
   "tribes": [
     "DeltaScription_Titanspawn"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Docile",
-    "ATS_Bone prince 2",
     "nevernamed.inscryption.sigils_Blood Guzzler"
   ],
   "appearanceBehaviour": [

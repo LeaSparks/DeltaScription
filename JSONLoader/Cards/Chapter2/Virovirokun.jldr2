@@ -10,7 +10,7 @@
   "cardComplexity": "Vanilla",
   "baseAttack": 1,
   "baseHealth": 4,
-  "energyCost": 2,
+  "energyCost": 3,
   "tribes": [
     "DeltaScription_CyberWorld"
   ],
