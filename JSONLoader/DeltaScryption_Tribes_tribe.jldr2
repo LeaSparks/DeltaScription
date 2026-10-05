@@ -65,6 +65,18 @@
   "guid": "DeltaScription",
   "tribeIcon": "DeltaScription_EquipmentTribe.png",
   "appearInTribeChoices": false
+  },
+  {
+    "name": "Mikes",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_MikeTribe.png",
+  "appearInTribeChoices": false
+  },
+  {
+    "name": "TVBoard",
+  "guid": "DeltaScription",
+  "tribeIcon": "DeltaScription_TVBoardTribe.png",
+  "appearInTribeChoices": true
   }
 ]
 }

@@ -1,0 +1,32 @@
+{
+  "name": "RetroFishSilver",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Fish",
+  "description": "A fish in metal armor.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sturdy",
+    "nevernamed.inscryption.sigils_Blast Resistant"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "FishSilver.png",
+  "emissionTexture": "FishSilver.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png",
+    "customPortraitColor": "#ffffff"
+  }
+}

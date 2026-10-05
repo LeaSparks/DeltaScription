@@ -11,17 +11,16 @@
   "baseHealth": 6,
   "bloodCost": 4,
   "tribes": [
-    "DeltaScription_Equipment"
+    "DeltaScription_CardKingdom"
   ],
   "specialAbilities": [
     "nevernamed.inscryption.sigils_PackRatEater"
   ],
   "abilities": [
-    "nevernamed.inscryption.sigils_Kin Bearer",
-    "nevernamed.inscryption.sigils_Kin Bearer",
-    "nevernamed.inscryption.sigils_Kin Bearer",
-    "nevernamed.inscryption.sigils_Kin Bearer",
-    "nevernamed.inscryption.sigils_Kin Bearer"
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason"
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [
@@ -33,8 +32,9 @@
   "pixelTexture": "SeamSmall.png",
   "extensionProperties": {
     "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
     "customBackground": "SeamBackground.png",
     "customNameColor": "#ec8d24",
-    "BannedSigilTransferTarget": "UwU"
+    "MasonCustomPoolIdentifier": "DeltaSeamShop"
   }
 }

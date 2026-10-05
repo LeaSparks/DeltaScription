@@ -22,19 +22,17 @@
   "onePerDeck": true,
   "appearanceBehaviour": [
     "spapi.inscryption.configemissions.ConfigurableBackground",
-    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
-    "spapi.inscryption.configemissions.ConfigurableStatColors"
+    "spapi.inscryption.configemissions.ConfigurableStatColors",
+    "DefaultEmission"
   ],
   "texture": "Maddie.png",
-  "emissionTexture": "MaddieEmissives.png",
+  "emissionTexture": "MaddieEmissivesRevamp.png",
   "pixelTexture": "PinkSmall.png",
   "extensionProperties": {
-    "customEmissionColorHEX": "#c57ef7",
     "BannedSigilTransferVictim": "UwU",
-    "customBackground": "DarkWorldLightnerBackground.png",
+    "customBackground": "SoulPurpleBackground.png",
     "customAttackColor": "#c7b9d7",
     "customNameColor": "#c7b9d7",
-    "customPortraitColor": "#c7b9d7",
-    "customHealthColor ": "#c7b9d7"
+    "customHealthColor": "#c7b9d7"
   }
 }

@@ -28,13 +28,13 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v0.5.7.1:
+v1.6.1:
 
 - Published the Mod featuring:
 
 	- Flower Kingdom  |26/26 Cards| Complete!
 	- Dark Sanctuary  |26/26 Cards| Complete!
-	- TV World        |??/?? Cards| N/A
+	- TV World        |28/?? Cards| N/A
 	- Cyber World     |42/42 Cards| Testing Required!
 	- Card Kingdom    |30/30 Cards| WIP
 	- Hometown        |00/22 Cards| WIP
@@ -47,13 +47,41 @@ v0.5.7.1:
 
 # Patch Notes
 
-- FIXED FATAL ERROR WITH HOLY WATERCOOLER
+- Added 27 cards to TV World including
+HERO_SWORD
+HERO_SCARF
+HERO_AXE
+HERO_RING (disabled until I can get some custom sigil work)
+Blue Fish
+Silver Fish
+Antlion
+Flower Orange
+Flower Indigo
+Flower Yellow
+ENEMY_BIRD
+Lizard Yellow
+Lizard Green
+Lizard Aqua
+Monster Yellow
+Monster Gold
+Monster Grey
+Monster Orange
+Monster Purple
+Monster White
+Sleeping Cat
+Awake Cat
+Singing Cat
+Watercooler
+Friendling
+ERAM (Shadow Mantle Holder)
+Quiz Vortex
 
+- Fixed balancing issue with Zapper that made it the best card in the game.
 
 # Credits
 
 - Lea - the main developer of the mod, put together the cards themselves and did the art assets for the project
-
+- Toby Fox - for creating these lovely characters with his team
 
 ## Special Thanks
 
@@ -61,7 +89,6 @@ v0.5.7.1:
 
 
 # Card List
-
 
 WIP
 https://github.com/LeaSparks/DeltaScription/wiki

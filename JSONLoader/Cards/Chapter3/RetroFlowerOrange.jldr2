@@ -1,0 +1,33 @@
+{
+  "name": "RetroFlowerOrange",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Flower",
+  "description": "A flower.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "energyCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Annoying Latch"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Flower.png",
+  "emissionTexture": "FlowerEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#ffc64f",
+    "customBackground": "RetroBoardBackground.png",
+    "customPortraitColor": "#ffffff"
+  }
+}

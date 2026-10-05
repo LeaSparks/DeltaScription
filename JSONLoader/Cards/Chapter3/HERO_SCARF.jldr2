@@ -1,0 +1,38 @@
+{
+  "name": "HERO_SCARF",
+  "modPrefix": "DeltaTV",
+  "displayedName": "HERO_SCARF",
+  "description": "Every adventure needs a PRINCE.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "traits": [
+    "Goat"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Prophecy",
+    "GainGemTriple",
+    "nevernamed.inscryption.sigils_Burning Latch"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "HeroScarfEmissives.png",
+  "emissionTexture": "HeroScarfEmissives.png",
+  "pixelTexture": "HeroScarfSmall.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardRareBackground.png",
+    "BannedSigilTransferVictim": "UwU",
+    "BannedFromCampfire": "UwU",
+    "AlwaysValidForFairHand": "UwU"
+  }
+}

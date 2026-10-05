@@ -1,0 +1,31 @@
+{
+  "name": "RetroFishBlue",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Fish",
+  "description": "A fish.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Subaquatic Spines"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Fish.png",
+  "emissionTexture": "Fish.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png",
+    "customPortraitColor": "#ffffff"
+  }
+}

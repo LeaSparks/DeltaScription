@@ -3,9 +3,6 @@
   "modPrefix": "DeltaEquipment",
   "displayedName": "Ragger",
   "description": "A rugged scarf that cuts enemies like a dagger.",
-  "metaCategories": [
-    "TraderOffer"
-  ],
   "cardComplexity": "Vanilla",
   "baseAttack": 2,
   "baseHealth": 0,
@@ -23,9 +20,10 @@
   "texture": "Ragger.png",
   "extensionProperties": {
     "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
     "customBackground": "EquipmentPlaceholderBackground.png",
     "customAttackColor": "#ffffff",
     "customNameColor": "#ffffff",
-    "BannedSigilTransferTarget": "UwU"
+    "DeltaChap1Equipment": "UwU"
   }
 }

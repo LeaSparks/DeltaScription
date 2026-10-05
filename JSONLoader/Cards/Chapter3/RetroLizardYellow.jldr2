@@ -1,0 +1,32 @@
+{
+  "name": "RetroLizardYellow",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Lizard",
+  "description": "A lizard.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Leaper",
+    "nevernamed.inscryption.sigils_Unfocused Strike"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
+  ],
+  "texture": "Lizard.png",
+  "emissionTexture": "LizardEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png",
+    "customEmissionColorHEX": "#fff30d"
+  }
+}

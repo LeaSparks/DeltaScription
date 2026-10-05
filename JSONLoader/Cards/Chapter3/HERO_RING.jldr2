@@ -1,0 +1,32 @@
+{
+  "name": "HERO_RING",
+  "modPrefix": "DeltaTV",
+  "displayedName": "HERO_RING",
+  "description": "Every adventure needs a GIRL.",
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Lockdown",
+    "nevernamed.inscryption.sigils_Spurred",
+    "nevernamed.inscryption.sigils_Abstain"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "HeroRingEmissives.png",
+  "emissionTexture": "HeroRingEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardRareBackground.png",
+    "BannedSigilTransferVictim": "UwU",
+    "CustomSpurredBuff": "99",
+    "BannedFromCampfire": "UwU",
+    "AlwaysValidForFairHand": "UwU"
+  }
+}

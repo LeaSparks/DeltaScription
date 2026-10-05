@@ -9,8 +9,8 @@
   ],
   "cardComplexity": "Intermediate",
   "baseAttack": 0,
-  "baseHealth": 4,
-  "bloodCost": 1,
+  "baseHealth": 6,
+  "bloodCost": 2,
   "tribes": [
     "DeltaScription_Sanctuary",
     "DeltaScription_TVWorld"

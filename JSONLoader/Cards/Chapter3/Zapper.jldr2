@@ -1,0 +1,27 @@
+{
+  "name": "Zapper",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Zapper",
+  "description": "A bouncer that favors brute force over beauty. Gets lost easily.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Remote Controlled",
+    "nevernamed.inscryption.sigils_Abstain"
+  ],
+  "texture": "Zapper.png",
+  "emissionTexture": "ZapperEmissives.png",
+  "extensionProperties": {
+    "IsRemoteController": "UwU",
+    "RemoteControlledControllerOverride": "DeltaTV_Zapper"
+  }
+}

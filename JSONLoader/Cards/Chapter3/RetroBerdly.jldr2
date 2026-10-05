@@ -1,0 +1,35 @@
+{
+  "name": "RetroBerdly",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Blue Bird",
+  "description": "Another Enemy.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard",
+    "Bird"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Frail Sacrifice",
+    "nevernamed.inscryption.sigils_Trifling Sacrifice",
+    "WhackAMole",
+    "Flying"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "BlueBird.png",
+  "emissionTexture": "BlueBird.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png"
+  }
+}

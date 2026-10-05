@@ -1,0 +1,33 @@
+{
+  "name": "HERO_SWORD",
+  "modPrefix": "DeltaTV",
+  "displayedName": "HERO_SWORD",
+  "description": "Every adventure needs a HERO.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "GainAttackOnKill",
+    "nevernamed.inscryption.sigils_Bastion"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "HeroSwordEmissives.png",
+  "emissionTexture": "HeroSwordEmissives.png",
+  "pixelTexture": "HeroSwordSmall.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardRareBackground.png",
+    "BannedSigilTransferVictim": "UwU",
+    "BannedFromCampfireDamage": "UwU"
+  }
+}

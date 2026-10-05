@@ -1,0 +1,28 @@
+{
+  "name": "RetroSilentCatAwake",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Silent Cat",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Bone Duke",
+    "nevernamed.inscryption.sigils_Coward",
+    "nevernamed.inscryption.sigils_Eager"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "SilentCatAwake.png",
+  "emissionTexture": "SilentCatAwakeEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png",
+    "customPortraitColor": "#ffffff"
+  }
+}

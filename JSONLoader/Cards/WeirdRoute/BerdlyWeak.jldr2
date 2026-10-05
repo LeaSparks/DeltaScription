@@ -29,7 +29,7 @@
     "BannedSigilTransferVictim": "UwU",
     "customBackground": "LightWorldMonsterBackground.png",
     "customAttackColor": "#ff9900",
-    "customHealthColor ": "#ff0800",
+    "customHealthColor": "#ff0800",
     "customNameColor": "#ffffff"
   }
 }

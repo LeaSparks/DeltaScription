@@ -1,0 +1,36 @@
+{
+  "name": "Watercooler",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Watercooler",
+  "description": "It shows some mercy.",
+  "metaCategories": [
+    "TraderOffer",
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary",
+    "DeltaScription_TVWorld"
+  ],
+  "traits": [
+    "Terrain",
+    "Gem"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Fire Resistant",
+    "nevernamed.inscryption.sigils_Waterbird",
+    "GainGemBlue"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "TerrainBackground"
+  ],
+  "texture": "Watercooler.png",
+  "emissionTexture": "WatercoolerEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#16d7f5"
+  }
+}

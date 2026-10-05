@@ -1,0 +1,34 @@
+{
+  "name": "RetroFriend",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Friendling",
+  "description": "A small cat, will do anything for protein.",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Return Strike",
+    "DrawCopyOnDeath",
+    "CorpseEater",
+    "nevernamed.inscryption.sigils_Defiler",
+    "Strafe"
+  ],
+  "flipPortraitForStrafe": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "RetroFriend.png",
+  "emissionTexture": "RetroFriendEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RetroImgDepthsBackground.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff",
+    "PreventPlay": "UwU"
+  }
+}

@@ -10,13 +10,13 @@
   "baseHealth": 8,
   "bloodCost": 4,
   "tribes": [
-    "DeltaScription_Equipment"
+    "DeltaScription_CardKingdom"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Immaculate Form",
     "BuffEnemy",
-    "nevernamed.inscryption.sigils_Kin Bearer",
-    "nevernamed.inscryption.sigils_Kin Bearer"
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason"
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [
@@ -30,7 +30,8 @@
     "BannedSigilTransferVictim": "UwU",
     "customBackground": "RulesShopBackground.png",
     "customAttackColor": "#ffffff",
-    "customHealthColor ": "#ffffff",
-    "customNameColor": "#ffffff"
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff",
+    "MasonCustomPoolIdentifier": "DeltaRulesShop"
   }
 }

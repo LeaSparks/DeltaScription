@@ -1,0 +1,26 @@
+{
+  "name": "Pippins",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Pippins",
+  "description": "Small creature with a standard playing die for a head.",
+  "cardComplexity": "Vanilla",
+  "baseHealth": 1,
+  "specialStatIcon": "nevernamed.inscryption.sigils_Damage Dice",
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Pushover",
+    "nevernamed.inscryption.sigils_Lanky",
+    "nevernamed.inscryption.sigils_Lanky",
+    "nevernamed.inscryption.sigils_Lanky"
+  ],
+  "texture": "Pippins.png",
+  "emissionTexture": "PippinsEmissives.png",
+  "pixelTexture": "PippinsSmall.png",
+  "extensionProperties": {
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackTVWorld.png"
+  }
+}

@@ -32,7 +32,7 @@
     "customEmissionColorHEX": "#FF6100",
     "CustomTransformerTransformation": "DeltaProphecy_Jackenstein",
     "customAttackColor": "#ff9900",
-    "customHealthColor ": "#ff9900",
+    "customHealthColor": "#ff9900",
     "customNameColor": "#ff9900"
   }
 }

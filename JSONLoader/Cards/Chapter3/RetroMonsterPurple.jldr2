@@ -1,0 +1,28 @@
+{
+  "name": "RetroMonsterPurple",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Monster",
+  "description": "A monster.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableEmissionColor",
+    "DefaultEmission"
+  ],
+  "texture": "Monster.png",
+  "emissionTexture": "MonsterEmissives.png",
+  "extensionProperties": {
+    "customEmissionColorHEX": "#c4adf3",
+    "customBackground": "RetroBoardBackground.png"
+  }
+}

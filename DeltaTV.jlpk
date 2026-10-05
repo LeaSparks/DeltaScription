@@ -1,0 +1,7 @@
+{
+	"Title": "Late Night",
+	"Description": "A pack of [count] cards based on Deltarune characters from chapter 3. This Mod was designed with using every pack together in mind, some cards may not work as intended..",
+	"ModPrefix": "DeltaTV",
+	"PackArt": "DeltaTVPack.png",
+    "ValidFor": ["LeshyPack"]
+}

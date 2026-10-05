@@ -3,9 +3,6 @@
   "modPrefix": "DeltaEquipment",
   "displayedName": "Red Scarf",
   "description": "A basic scarf made of lightly magical fiber.",
-  "metaCategories": [
-    "TraderOffer"
-  ],
   "cardComplexity": "Vanilla",
   "baseAttack": 0,
   "baseHealth": 0,

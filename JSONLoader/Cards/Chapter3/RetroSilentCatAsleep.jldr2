@@ -1,0 +1,39 @@
+{
+  "name": "RetroSilentCatAsleep",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Silent Cat",
+  "description": "A sleeping cat.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Bone Duke",
+    "nevernamed.inscryption.sigils_Sturdy",
+    "nevernamed.inscryption.sigils_Resilient",
+    "Evolve"
+  ],
+  "evolveIntoName": "DeltaTV_RetroSilentCatAwake",
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "SilentCatAsleep.png",
+  "emissionTexture": "SilentCatAsleepEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "BannedFromCampfire": "UwU",
+    "BannedFromBoneLord": "UwU",
+    "customBackground": "RetroBoardBackground.png",
+    "customPortraitColor": "#ffffff"
+  }
+}

@@ -25,6 +25,6 @@
   "pixelTexture": "SwatchlingSmall.png",
   "extensionProperties": {
     "TwisterTransformation": "DeltaCyber_SwatchlingBlue",
-    "customEmissionColor": " #ff0019"
+    "customEmissionColor": "#ff0019"
   }
 }

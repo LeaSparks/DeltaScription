@@ -3,9 +3,6 @@
   "modPrefix": "DeltaEquipment",
   "displayedName": "Mane Ax",
   "description": "Beginner's ax forged from the mane of a dragon whelp.",
-  "metaCategories": [
-    "TraderOffer"
-  ],
   "cardComplexity": "Vanilla",
   "baseAttack": 1,
   "baseHealth": 0,

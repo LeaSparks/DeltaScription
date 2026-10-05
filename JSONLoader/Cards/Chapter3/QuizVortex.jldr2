@@ -1,0 +1,33 @@
+{
+  "name": "QuizVortex",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Quiz Vortex",
+  "description": "Generic obstacle, quite fond of useless trivia.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "Strafe",
+    "nevernamed.inscryption.sigils_Viva La Revolution",
+    "nevernamed.inscryption.sigils_Confusion"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "QuizVortexEmissives.png",
+  "emissionTexture": "QuizVortexEmissives.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardBackground.png",
+    "AlwaysValidForFairHand": "UwU"
+  }
+}

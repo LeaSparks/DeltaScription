@@ -1,0 +1,34 @@
+{
+  "name": "HERO_AXE",
+  "modPrefix": "DeltaTV",
+  "displayedName": "HERO_AXE",
+  "description": "Every adventure needs a GIRL.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Cleaving",
+    "nevernamed.inscryption.sigils_Spurred"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "HeroAxeEmissives.png",
+  "emissionTexture": "HeroAxeEmissives.png",
+  "pixelTexture": "HeroAxeSmall.png",
+  "extensionProperties": {
+    "customBackground": "RetroBoardRareBackground.png",
+    "BannedSigilTransferVictim": "UwU",
+    "BannedFromCampfireDamage": "UwU",
+    "CustomSpurredBuff": "4"
+  }
+}
