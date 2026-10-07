@@ -1,0 +1,33 @@
+{
+  "name": "TVText",
+  "modPrefix": "DeltaTV",
+  "displayedName": "TV",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Clawed",
+    "GainGemGreen"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TV.png",
+  "emissionTexture": "TVEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#e51c23",
+    "customNameColor": "#e51c23",
+    "customHealthColor": "#e51c23",
+    "ClawedLeftClawOverride": "DeltaTV_ItsText",
+    "ClawedRightClawOverride": "DeltaTV_TimeText"
+  }
+}

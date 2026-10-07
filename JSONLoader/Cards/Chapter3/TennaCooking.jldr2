@@ -1,0 +1,36 @@
+{
+  "name": "TennaCooking",
+  "modPrefix": "DeltaTV",
+  "displayedName": "PHYSICAL CHALLENGE",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Ignition",
+    "nevernamed.inscryption.sigils_Firebomb",
+    "nevernamed.inscryption.sigils_Fire Resistant",
+    "nevernamed.inscryption.sigils_Burning"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaCooking.png",
+  "emissionTexture": "TennaCooking.png",
+  "titleGraphic": "PhysicalChallenge.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

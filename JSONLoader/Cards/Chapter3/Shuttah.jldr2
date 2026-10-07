@@ -1,0 +1,23 @@
+{
+  "name": "Shuttah",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Shuttah",
+  "description": "When its eyes snap shut, memories are made in grey.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Blood Artist"
+  ],
+  "texture": "Shuttah.png",
+  "emissionTexture": "ShuttahEmissives.png"
+}

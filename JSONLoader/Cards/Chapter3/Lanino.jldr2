@@ -1,0 +1,29 @@
+{
+  "name": "Lanino",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Lanino",
+  "description": "A charming weatherman who can control the weather.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Tender Bond",
+    "nevernamed.inscryption.sigils_Hot Conduit",
+    "nevernamed.inscryption.sigils_Ignition"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Lanino.png",
+  "emissionTexture": "LaninoEmissives.png",
+  "pixelTexture": "LaninoSmall.png"
+}

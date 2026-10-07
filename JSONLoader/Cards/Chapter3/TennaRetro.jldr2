@@ -1,0 +1,38 @@
+{
+  "name": "TennaRetro",
+  "modPrefix": "DeltaTV",
+  "displayedName": "ADVENTURE BOARD",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVBoard"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer",
+    "nevernamed.inscryption.sigils_Kin Bearer"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaRetro.png",
+  "emissionTexture": "TennaRetro.png",
+  "titleGraphic": "TvRetro.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

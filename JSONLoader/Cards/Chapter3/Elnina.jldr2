@@ -1,0 +1,30 @@
+{
+  "name": "Elnina",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Elnina",
+  "description": "The weather girl who really makes it rain... with water.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Tender Bond",
+    "nevernamed.inscryption.sigils_Cute",
+    "nevernamed.inscryption.sigils_Sapphire Conduit",
+    "ATS_Electric"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "texture": "Elnina.png",
+  "emissionTexture": "ElninaEmissives.png",
+  "pixelTexture": "ElninaSmall.png"
+}

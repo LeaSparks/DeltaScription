@@ -1,0 +1,36 @@
+{
+  "name": "TennaZilla",
+  "modPrefix": "DeltaTV",
+  "displayedName": "PHYSICAL CHALLENGE",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 4,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Trampler",
+    "nevernamed.inscryption.sigils_Lonesome",
+    "nevernamed.inscryption.sigils_Splash Damage",
+    "nevernamed.inscryption.sigils_Eye For Battle"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaZilla.png",
+  "emissionTexture": "TennaZilla.png",
+  "titleGraphic": "PhysicalChallenge.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

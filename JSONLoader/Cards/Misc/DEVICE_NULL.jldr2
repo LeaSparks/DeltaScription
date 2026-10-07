@@ -1,0 +1,30 @@
+{
+  "name": "DEVICE_NULL",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "DEVICE_NULL",
+  "description": "Small creature with a standard playing die for a head.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Face To Face"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "Blank.png",
+  "extensionProperties": {
+    "customBackground": "ImgDepths.png",
+    "BannedSigilTransferVictim": "UwU",
+    "BannedFromCampfire": "UwU",
+    "CSDIsSideDeck": "true",
+    "CSDSideDeckType": "Basic",
+    "CSDCardBack": "CardBackTVWorld.png",
+    "ExcludeFromFairHand": "UwU"
+  }
+}

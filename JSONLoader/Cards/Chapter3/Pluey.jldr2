@@ -1,0 +1,39 @@
+{
+  "name": "Pluey",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Mike?",
+  "description": "\"「 (´ω｀)」\"",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "bonesCost": 2,
+  "tribes": [
+    "DeltaScription_Mikes",
+    "DeltaScription_Cat"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Insectivore",
+    "nevernamed.inscryption.sigils_Snakebite",
+    "nevernamed.inscryption.sigils_Deerly Departed",
+    "nevernamed.inscryption.sigils_Fowl Play",
+    "nevernamed.inscryption.sigils_Dog Gone"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Pluey.png",
+  "emissionTexture": "PlueyEmissives.png",
+  "pixelTexture": "PlueySmall.png",
+  "extensionProperties": {
+    "customBackground": "TVTimeBackTerrain.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

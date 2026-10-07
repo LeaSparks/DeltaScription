@@ -1,0 +1,34 @@
+{
+  "name": "Battat",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Mike?",
+  "description": "A Darkner posing as a Microphone.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "specialStatIcon": "nevernamed.inscryption.sigils_Damage Dice",
+  "tribes": [
+    "DeltaScription_Mikes"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Commander"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Battat.png",
+  "emissionTexture": "BattatEmissives.png",
+  "pixelTexture": "BattatSmall.png",
+  "extensionProperties": {
+    "customBackground": "TVTimeBackTerrain.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

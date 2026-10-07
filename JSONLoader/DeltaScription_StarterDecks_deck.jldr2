@@ -41,6 +41,26 @@
             "cards": [ "DeltaCyber_Swatch", "DeltaCyber_SwatchlingRed", "DeltaCyber_SwatchlingBlue", "DeltaCyber_SwatchlingGreen" ]
         },
 		{
+            "name": "TVTIME",
+            "iconTexture": "DeltaScription_TVTIME.png",
+            "cards": [ "DeltaTV_TennaBase", "DeltaTV_GatchaBall", "DeltaTV_GatchaBall" ]
+        },
+		{
+            "name": "RetroHeros",
+            "iconTexture": "DeltaScription_RetroHeros.png",
+            "cards": [ "DeltaTV_HERO_SWORD", "DeltaTV_HERO_AXE", "DeltaTV_HERO_SCARF" ]
+        },
+		{
+            "name": "PowerThrouple",
+            "iconTexture": "DeltaScription_PowerThrouple.png",
+            "cards": [ "DeltaTV_Lanino", "DeltaTV_Elnina", "DeltaTV_RoulxTv" ]
+        },
+		{
+            "name": "Mikes",
+            "iconTexture": "DeltaScription_Mikes.png",
+            "cards": [ "DeltaTV_Pluey", "DeltaTV_Jongler", "DeltaTV_Battat" ]
+        },
+		{
             "name": "DarkSanctuary",
             "iconTexture": "DeltaScription_Sanctuary.png",
             "cards": [ "DeltaProphecy_Guei", "DeltaProphecy_Mizzle", "DeltaProphecy_Mizzle", "DeltaProphecy_OrganikkA" ]
@@ -84,5 +104,3 @@
 
 		]
 }
-
-

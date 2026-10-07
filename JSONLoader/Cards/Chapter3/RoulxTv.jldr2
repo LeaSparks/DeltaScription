@@ -1,0 +1,41 @@
+{
+  "name": "RoulxTv",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Rouxls Kaard",
+  "description": "An uninvited third party.",
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 5,
+  "bloodCost": 1,
+  "gemsCost": [
+    "Blue"
+  ],
+  "tribes": [
+    "DeltaScription_TVWorld",
+    "DeltaScription_CardKingdom"
+  ],
+  "traits": [
+    "KillsSurvivors",
+    "Uncuttable "
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Meaningless Bond",
+    "nevernamed.inscryption.sigils_High Powered",
+    "ConduitEnergy",
+    "nevernamed.inscryption.sigils_Splash Damage When Powered",
+    "nevernamed.inscryption.sigils_Peer Pressure"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground"
+  ],
+  "texture": "RoulxTv.png",
+  "emissionTexture": "RoulxTvEmissives.png",
+  "pixelTexture": "RouxlsKaardSmall.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "BannedFromCampfire": "UwU",
+    "customBackground": "RareRulesBackground.png"
+  }
+}

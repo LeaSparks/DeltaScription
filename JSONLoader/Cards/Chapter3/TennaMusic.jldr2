@@ -1,0 +1,34 @@
+{
+  "name": "TennaMusic",
+  "modPrefix": "DeltaTV",
+  "displayedName": "PHYSICAL CHALLENGE",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 2,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "ATS_Song of sleep",
+    "nevernamed.inscryption.sigils_Deus Hoof"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaMusic.png",
+  "emissionTexture": "TennaMusic.png",
+  "titleGraphic": "PhysicalChallenge.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "TennaBase",
+  "modPrefix": "DeltaTV",
+  "displayedName": "TennaBase",
+  "description": "The Lord of Screens",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Wild Shape",
+    "nevernamed.inscryption.sigils_Flea Ridden"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaBase.png",
+  "emissionTexture": "TennaBase.png",
+  "pixelTexture": "TennaSmall.png",
+  "titleGraphic": "TennaWordArt.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "BannedFromCampfire": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff",
+    "FleaRiddenOverride": "DeltaTV_TvText",
+    "WildShapeFormBlue": "DeltaTV_TennaMusic",
+    "WildShapeFormGreen": "DeltaTV_TennaZilla",
+    "WildShapeFormOrange": "DeltaTV_TennaCooking",
+    "WildShapeFormBlueGreen": "DeltaTV_TennaRetro",
+    "WildShapeFormGreenOrange": "DeltaTV_TennaCowboy",
+    "WildShapeFormOrangeBlue": "DeltaTV_TennaCrashout",
+    "WildShapeFormAllGems": "DeltaTV_TennaCleaved"
+  }
+}

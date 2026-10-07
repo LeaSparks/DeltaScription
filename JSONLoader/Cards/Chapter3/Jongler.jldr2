@@ -1,0 +1,35 @@
+{
+  "name": "Jongler",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Mike?",
+  "description": "A Darkner posing as a Microphone with a Cowboy Hat.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 2,
+  "tribes": [
+    "DeltaScription_Mikes"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Sturdy",
+    "Sniper"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Jongler.png",
+  "emissionTexture": "JonglerEmissives.png",
+  "pixelTexture": "JonglerSmall.png",
+  "extensionProperties": {
+    "customBackground": "TVTimeBackTerrain.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff",
+    "IsRemoteController": "UwU"
+  }
+}

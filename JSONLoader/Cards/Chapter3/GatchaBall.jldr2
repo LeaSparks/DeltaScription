@@ -1,0 +1,36 @@
+{
+  "name": "GatchaBall",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Gatcha Ball",
+  "description": "A Strange Otherworldly Prison.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseHealth": 5,
+  "energyCost": 1,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "traits": [
+    "Terrain"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Snare",
+    "nevernamed.inscryption.sigils_Mystery Mox"
+  ],
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "GatchaBall.png",
+  "emissionTexture": "GatchaBall.png",
+  "pixelTexture": "GatchaBallSmall.png",
+  "extensionProperties": {
+    "customBackground": "TVTimeBackTerrain.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

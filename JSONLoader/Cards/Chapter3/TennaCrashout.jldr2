@@ -1,0 +1,36 @@
+{
+  "name": "TennaCrashout",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Tenna",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 4,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Paralytic",
+    "nevernamed.inscryption.sigils_Blood Guzzler",
+    "nevernamed.inscryption.sigils_Bonelust",
+    "nevernamed.inscryption.sigils_Eye For Battle"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaCrashout.png",
+  "emissionTexture": "TennaCrashout.png",
+  "titleGraphic": "TennaWordArtCrashout.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

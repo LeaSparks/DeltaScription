@@ -1,0 +1,22 @@
+{
+  "name": "ShadowGuy",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Shadow Guy",
+  "description": "Passionate about music, but often taken advantage of by sinister types.",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Split Sentry"
+  ],
+  "texture": "ShadowGuy.png",
+  "emissionTexture": "ShadowGuyEmissives.png"
+}

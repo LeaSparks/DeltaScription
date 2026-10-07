@@ -1,0 +1,37 @@
+{
+  "name": "TennaCleaved",
+  "modPrefix": "DeltaTV",
+  "displayedName": "Tenna",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 0,
+  "baseHealth": 8,
+  "bloodCost": 2,
+  "energyCost": 2,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Firebomb",
+    "nevernamed.inscryption.sigils_Instant Effect"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "TennaCleaved.png",
+  "emissionTexture": "TennaCleaved.png",
+  "titleGraphic": "TennaWordArtCleaved.png",
+  "decals": [
+    "decal_stitches.png"
+  ],
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#ffffff",
+    "customNameColor": "#ffffff",
+    "customHealthColor": "#ffffff"
+  }
+}

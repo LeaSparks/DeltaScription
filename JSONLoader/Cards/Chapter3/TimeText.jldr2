@@ -1,0 +1,32 @@
+{
+  "name": "TimeText",
+  "modPrefix": "DeltaTV",
+  "displayedName": "TIME!",
+  "cardComplexity": "Intermediate",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "tribes": [
+    "DeltaScription_TVWorld"
+  ],
+  "abilities": [
+    "GainGemOrange"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission",
+    "spapi.inscryption.configemissions.ConfigurableStatColors"
+  ],
+  "texture": "Time.png",
+  "emissionTexture": "TimeEmissives.png",
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "TVTimeBack.png",
+    "customAttackColor": "#e51c23",
+    "customNameColor": "#e51c23",
+    "customHealthColor": "#e51c23",
+    "ClawedLeftClawOverride": "DeltaTV_ItsText",
+    "ClawedRightClawOverride": "DeltaTV_TimeText"
+  }
+}
