@@ -28,9 +28,9 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v1.6.5:
+v1.6.7:
 
-- Published the Mod featuring:
+- This Mod currently features:
 
 	- Flower Kingdom  |26/26 Cards| Complete!
 	- Dark Sanctuary  |26/26 Cards| Complete!
@@ -47,7 +47,15 @@ v1.6.5:
 
 # Patch Notes
 
-- Added 22 cards to TV World
+- Adjusted ??? cost from 3 blood to Green Mox
+- Adjusted CARD_DECEMBER from 2 blood, 12 bones to 24 bones
+- Adjusted CARD_DECEMBER from 24 health to 12 health
+- Removed Thorn Ring from item pool
+- Removed Twisted Sword from item pool
+- Removed DEVICE_NULL from Side Deck selection
+- ☼︎♏︎❍︎□︎❖︎♏︎♎︎ ☝︎❒︎♏︎♏︎■︎ 🏱︎♓︎❒︎♋︎⧫︎♏︎
+- Fixed TV TIME card set not functioning
+- Prepared mikes for next visual revamp update
 
 
 # Credits
@@ -58,7 +66,6 @@ v1.6.5:
 ## Special Thanks
 
 - Nevernamed - For some custom sigil implementation used on Flowery as well as the entire Nevernamed Sigils Pack
-
 
 # Card List
 

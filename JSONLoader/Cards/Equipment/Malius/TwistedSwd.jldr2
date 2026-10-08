@@ -3,9 +3,6 @@
   "modPrefix": "DeltaEquipment",
   "displayedName": "Twisted Sword",
   "description": "A strange blade.",
-  "metaCategories": [
-    "Rare"
-  ],
   "cardComplexity": "Advanced",
   "baseAttack": 16,
   "baseHealth": 0,

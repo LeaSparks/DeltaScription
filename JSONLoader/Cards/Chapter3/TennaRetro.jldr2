@@ -4,8 +4,8 @@
   "displayedName": "ADVENTURE BOARD",
   "cardComplexity": "Intermediate",
   "baseAttack": 1,
-  "baseHealth": 6,
-  "bloodCost": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
   "energyCost": 2,
   "tribes": [
     "DeltaScription_TVBoard"

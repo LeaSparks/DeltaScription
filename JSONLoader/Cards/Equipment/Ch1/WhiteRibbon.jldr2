@@ -3,9 +3,7 @@
   "modPrefix": "DeltaEquipment",
   "displayedName": "White Ribbon",
   "description": "A crinkly hair ribbon that slightly increases your defense.",
-  "metaCategories": [
-    "TraderOffer"
-  ],
+
   "cardComplexity": "Vanilla",
   "baseAttack": 0,
   "baseHealth": 0,

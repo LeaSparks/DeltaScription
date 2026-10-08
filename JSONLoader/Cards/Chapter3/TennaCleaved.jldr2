@@ -3,16 +3,16 @@
   "modPrefix": "DeltaTV",
   "displayedName": "Tenna",
   "cardComplexity": "Intermediate",
-  "baseAttack": 0,
-  "baseHealth": 8,
-  "bloodCost": 2,
+  "baseHealth": 5938,
+  "bloodCost": 1,
   "energyCost": 2,
   "tribes": [
     "DeltaScription_TVWorld"
   ],
   "abilities": [
-    "nevernamed.inscryption.sigils_Firebomb",
-    "nevernamed.inscryption.sigils_Instant Effect"
+    "nevernamed.inscryption.sigils_Annihilation",
+    "nevernamed.inscryption.sigils_Doomed",
+    "nevernamed.inscryption.sigils_Abstain"
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [
@@ -32,6 +32,7 @@
     "customBackground": "TVTimeBack.png",
     "customAttackColor": "#ffffff",
     "customNameColor": "#ffffff",
-    "customHealthColor": "#ffffff"
+    "customHealthColor": "#ffffff",
+    "CustomDoomedDuration": "1"
   }
 }

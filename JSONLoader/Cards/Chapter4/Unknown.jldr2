@@ -10,7 +10,6 @@
   "cardComplexity": "Advanced",
   "baseAttack": 0,
   "baseHealth": 1,
-  "bloodCost": 3,
   "gemsCost": [
     "Green"
   ],

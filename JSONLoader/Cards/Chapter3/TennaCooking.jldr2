@@ -4,8 +4,8 @@
   "displayedName": "PHYSICAL CHALLENGE",
   "cardComplexity": "Intermediate",
   "baseAttack": 1,
-  "baseHealth": 8,
-  "bloodCost": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
   "energyCost": 2,
   "tribes": [
     "DeltaScription_TVWorld"

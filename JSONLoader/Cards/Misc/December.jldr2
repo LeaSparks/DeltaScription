@@ -7,9 +7,8 @@
     "Rare"
   ],
   "baseAttack": 1,
-  "baseHealth": 25,
-  "bloodCost": 2,
-  "bonesCost": 12,
+  "baseHealth": 12,
+  "bonesCost": 24,
   "specialStatIcon": "SacrificesThisTurn",
   "tribes": [
     "Hooved",

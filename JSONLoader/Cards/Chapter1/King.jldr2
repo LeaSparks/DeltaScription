@@ -8,8 +8,8 @@
   ],
   "cardComplexity": "Simple",
   "baseHealth": 8,
-  "bloodCost": 4,
-  "bonesCost": 2,
+  "bloodCost": 2,
+  "bonesCost": 6,
   "specialStatIcon": "nevernamed.inscryption.sigils_Damage Dice",
   "tribes": [
     "DeltaScription_CardKingdom"

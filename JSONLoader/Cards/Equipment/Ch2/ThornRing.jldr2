@@ -2,9 +2,6 @@
   "name": "ThornRing",
   "modPrefix": "DeltaEquipment",
   "displayedName": "Thorn Ring",
-  "metaCategories": [
-    "Rare"
-  ],
   "cardComplexity": "Simple",
   "baseAttack": 5,
   "bloodCost": 1,

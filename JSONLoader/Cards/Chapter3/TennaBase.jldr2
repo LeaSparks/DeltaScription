@@ -8,16 +8,17 @@
   ],
   "cardComplexity": "Intermediate",
   "baseAttack": 1,
-  "baseHealth": 8,
-  "bloodCost": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
   "energyCost": 2,
   "tribes": [
     "DeltaScription_TVWorld"
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Wild Shape",
-    "nevernamed.inscryption.sigils_Flea Ridden"
+    "IceCube"
   ],
+  "iceCubeName": "DeltaTV_TVText",
   "onePerDeck": true,
   "appearanceBehaviour": [
     "spapi.inscryption.configemissions.ConfigurableBackground",
@@ -36,7 +37,6 @@
     "customAttackColor": "#ffffff",
     "customNameColor": "#ffffff",
     "customHealthColor": "#ffffff",
-    "FleaRiddenOverride": "DeltaTV_TvText",
     "WildShapeFormBlue": "DeltaTV_TennaMusic",
     "WildShapeFormGreen": "DeltaTV_TennaZilla",
     "WildShapeFormOrange": "DeltaTV_TennaCooking",

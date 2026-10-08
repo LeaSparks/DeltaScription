@@ -22,9 +22,6 @@
     "customBackground": "ImgDepths.png",
     "BannedSigilTransferVictim": "UwU",
     "BannedFromCampfire": "UwU",
-    "CSDIsSideDeck": "true",
-    "CSDSideDeckType": "Basic",
-    "CSDCardBack": "CardBackTVWorld.png",
     "ExcludeFromFairHand": "UwU"
   }
 }
