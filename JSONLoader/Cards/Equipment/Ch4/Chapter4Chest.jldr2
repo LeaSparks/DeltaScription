@@ -1,0 +1,30 @@
+{
+  "name": "Chapter4Chest",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Chest",
+  "description": "A box of Equipment.",
+  "metaCategories": [
+    "TraderOffer"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [
+    "DeltaScription_Sanctuary"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "RareCardBackground",
+    "DefaultEmission"
+  ],
+  "texture": "Chest.png",
+  "emissionTexture": "Chest.png",
+  "extensionProperties": {
+    "MasonCustomPoolIdentifier": "DeltaChap4Equipment"
+  }
+}

@@ -28,7 +28,7 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v1.6.7:
+v1.6.8:
 
 - This Mod currently features:
 
@@ -39,7 +39,7 @@ v1.6.7:
 	- Card Kingdom    |30/30 Cards| Complete!
 	- Hometown        |00/22 Cards| WIP
 	- Weird Route     |02/?? Cards| WIP
-	- Equipment       |16/60 Cards| WIP
+	- Equipment       |06/60 Cards| WIP
 	- Miscellaneous   |05/?? Cards| WIP
 	- 20 new starter decks to try in this current state.
 
@@ -47,15 +47,9 @@ v1.6.7:
 
 # Patch Notes
 
-- Adjusted ??? cost from 3 blood to Green Mox
-- Adjusted CARD_DECEMBER from 2 blood, 12 bones to 24 bones
-- Adjusted CARD_DECEMBER from 24 health to 12 health
-- Removed Thorn Ring from item pool
-- Removed Twisted Sword from item pool
-- Removed DEVICE_NULL from Side Deck selection
+- Fixed crash with CARD_DECEMBER
 - ☼︎♏︎❍︎□︎❖︎♏︎♎︎ ☝︎❒︎♏︎♏︎■︎ 🏱︎♓︎❒︎♋︎⧫︎♏︎
-- Fixed TV TIME card set not functioning
-- Prepared mikes for next visual revamp update
+- Added Chest Cards
 
 
 # Credits

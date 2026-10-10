@@ -1,6 +1,6 @@
 {
-	"Title": "DeltaScription Equipment",
-	"Description": "A WIP pack of [count] cards based on Deltarune s enabled but if you don't like it, you may switch it off..",
+	"Title": "DeltaScription Equipment BETA",
+	"Description": "A WIP pack of [count] cards based on Deltarune's equipment most cards are non functional or broken, switch this off.",
 	"ModPrefix": "DeltaEquipment",
 	"PackArt": "DeltaEquipmentPack.png",
     "ValidFor": ["LeshyPack"]

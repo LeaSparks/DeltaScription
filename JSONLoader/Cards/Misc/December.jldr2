@@ -8,7 +8,8 @@
   ],
   "baseAttack": 1,
   "baseHealth": 12,
-  "bonesCost": 24,
+  "bloodCost": 2,
+  "bonesCost": 4,
   "specialStatIcon": "SacrificesThisTurn",
   "tribes": [
     "Hooved",
@@ -16,7 +17,8 @@
   ],
   "abilities": [
     "nevernamed.inscryption.sigils_Sharper Quills",
-    "DoubleStrike"
+    "DoubleStrike",
+    "nevernamed.inscryption.sigils_Docile"
   ],
   "onePerDeck": true,
   "appearanceBehaviour": [

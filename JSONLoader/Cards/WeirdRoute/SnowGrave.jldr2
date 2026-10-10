@@ -20,5 +20,8 @@
   "appearanceBehaviour": [
     "TerrainBackground"
   ],
-  "texture": "SnowGrave.png"
+  "texture": "SnowGrave.png",
+  "decals": [
+    "FrozenDecal.png"
+  ]
 }

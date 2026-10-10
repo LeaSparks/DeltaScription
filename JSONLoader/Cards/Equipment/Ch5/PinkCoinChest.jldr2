@@ -1,0 +1,36 @@
+{
+  "name": "PinkCoinChest",
+  "modPrefix": "DeltaEquipment",
+  "displayedName": "Pink Chest",
+  "description": "A box of Flower Equipment.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Advanced",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "tribes": [
+    "DeltaScription_Flower"
+  ],
+  "abilities": [
+    "nevernamed.inscryption.sigils_Mason",
+    "nevernamed.inscryption.sigils_Mason"
+  ],
+  "onePerDeck": true,
+  "appearanceBehaviour": [
+    "spapi.inscryption.configemissions.ConfigurableBackground",
+    "DefaultEmission"
+  ],
+  "texture": "PinkChest.png",
+  "emissionTexture": "PinkChest.png",
+  "decals": [
+    "PinkCoinDecal.png"
+  ],
+  "extensionProperties": {
+    "BannedSigilTransferVictim": "UwU",
+    "BannedSigilTransferTarget": "UwU",
+    "customBackground": "PinkRareBack.png",
+    "MasonCustomPoolIdentifier": "DeltaPinkEquipment",
+    "ExcludeFromFairHand": "UwU"
+  }
+}
