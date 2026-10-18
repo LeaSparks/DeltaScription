@@ -99,6 +99,11 @@
             "name": "FlowerCastle",
             "iconTexture": "DeltaScription_FlowerCastle.png",
             "cards": [ "DeltaFlower_Shinobeetle", "DeltaFlower_Terakota", "DeltaFlower_PotArcher" ]
+        },
+		{
+            "name": "Mystery",
+            "iconTexture": "DeltaScription_Mystery.png",
+            "cards": [ "PeltHare", "PeltWolf", "PeltGolden" ]
         }
 
 

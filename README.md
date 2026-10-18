@@ -28,7 +28,7 @@ If you're using a mod manager it should just work.
 
 # Release Notes
 
-v1.6.8:
+v1.7.0:
 
 - This Mod currently features:
 
@@ -47,10 +47,9 @@ v1.6.8:
 
 # Patch Notes
 
-- Fixed crash with CARD_DECEMBER
+- Added new plugin for modifications to story
 - ☼︎♏︎❍︎□︎❖︎♏︎♎︎ ☝︎❒︎♏︎♏︎■︎ 🏱︎♓︎❒︎♋︎⧫︎♏︎
-- Added Chest Cards
-
+- Rebalanced Cards
 
 # Credits
 
