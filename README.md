@@ -22,6 +22,9 @@ If you're installing the mod manually:
 
 - Make sure that you have installed all the dependencies required by this mod as well.
 
+- MAKE SURE TO ENABLE Energy Drone = true AND Mox Drone = true
+IN BepinEx/config/community.inscryption.patch.cfg
+
 If you're using a mod manager it should just work.
 
 

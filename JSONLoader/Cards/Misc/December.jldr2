@@ -33,8 +33,7 @@
     "BannedSigilTransferVictim": "UwU",
     "customBackground": "AngelsHeavenBackground.png",
     "customAttackColor": "#ff9900",
-    "customHealthColor ": "#ff0800",
-    "customNameColor": "#ffffff",
-    "customPortraitColor": "#ffffff"
+    "customHealthColor": "#ff0800",
+    "customNameColor": "#ffffff"
   }
 }
